@@ -1,0 +1,5894 @@
+[
+  {
+    "voltageMeasured": 4.246711253516259,
+    "currentMeasured": 0.0002523886105860831,
+    "currentCharge": 0.0002,
+    "voltageCharge": 0,
+    "temperature": 6.212696115916043,
+    "location": [
+      80.44972190378652,
+      -54.030164406245106
+    ],
+    "time": 0
+  },
+  {
+    "voltageMeasured": 4.246764125510136,
+    "currentMeasured": -0.0014110647362388163,
+    "currentCharge": 0.0002,
+    "voltageCharge": 4.262,
+    "temperature": 6.234018870000787,
+    "location": [
+      83.63817279658485,
+      82.35922704791932
+    ],
+    "time": 9.36
+  },
+  {
+    "voltageMeasured": 4.039277018171289,
+    "currentMeasured": -0.9950934118049801,
+    "currentCharge": 1,
+    "voltageCharge": 3.465,
+    "temperature": 6.250254735870466,
+    "location": [
+      3.3165575516494243,
+      107.5379110372275
+    ],
+    "time": 23.281
+  },
+  {
+    "voltageMeasured": 4.019506433278611,
+    "currentMeasured": -0.9967310600613466,
+    "currentCharge": 1,
+    "voltageCharge": 3.451,
+    "temperature": 6.3021756591391584,
+    "location": [
+      9.913783050508428,
+      -120.60214200486459
+    ],
+    "time": 36.406
+  },
+  {
+    "voltageMeasured": 4.004763260680274,
+    "currentMeasured": -0.9928446352399166,
+    "currentCharge": 1,
+    "voltageCharge": 3.438,
+    "temperature": 6.361644677784643,
+    "location": [
+      -4.350953574325345,
+      146.3180523356629
+    ],
+    "time": 49.625
+  },
+  {
+    "voltageMeasured": 3.9928627084244077,
+    "currentMeasured": -0.9959566094030224,
+    "currentCharge": 1,
+    "voltageCharge": 3.427,
+    "temperature": 6.3996923588972825,
+    "location": [
+      60.419574730236064,
+      145.39782372743412
+    ],
+    "time": 62.813
+  },
+  {
+    "voltageMeasured": 3.9823467950992972,
+    "currentMeasured": -0.9946648032078992,
+    "currentCharge": 1,
+    "voltageCharge": 3.419,
+    "temperature": 6.23361305198984,
+    "location": [
+      88.35275478863147,
+      -45.15997680587995
+    ],
+    "time": 75.89099999999999
+  },
+  {
+    "voltageMeasured": 3.9724578113821183,
+    "currentMeasured": -0.9987529288284779,
+    "currentCharge": 1,
+    "voltageCharge": 3.4,
+    "temperature": 5.984853971653922,
+    "location": [
+      -4.7336299390636185,
+      28.878923722763147
+    ],
+    "time": 89.031
+  },
+  {
+    "voltageMeasured": 3.9637400413432737,
+    "currentMeasured": -0.9941397917087201,
+    "currentCharge": 1,
+    "voltageCharge": 3.391,
+    "temperature": 5.857701988766819,
+    "location": [
+      -21.30146994929997,
+      -92.54905157413911
+    ],
+    "time": 102.14099999999999
+  },
+  {
+    "voltageMeasured": 3.9554322726766733,
+    "currentMeasured": -0.9937968630394283,
+    "currentCharge": 1,
+    "voltageCharge": 3.386,
+    "temperature": 5.772313170034769,
+    "location": [
+      -88.73424692944164,
+      173.77172902183526
+    ],
+    "time": 115.297
+  },
+  {
+    "voltageMeasured": 3.947905974663914,
+    "currentMeasured": -0.9941198611582432,
+    "currentCharge": 1,
+    "voltageCharge": 3.381,
+    "temperature": 5.6509740843492455,
+    "location": [
+      65.0281437413289,
+      -77.46784256292142
+    ],
+    "time": 128.438
+  },
+  {
+    "voltageMeasured": 3.940774900997409,
+    "currentMeasured": -0.9951935027793659,
+    "currentCharge": 1,
+    "voltageCharge": 3.376,
+    "temperature": 5.571673053475088,
+    "location": [
+      -4.247182976522254,
+      124.58954911009704
+    ],
+    "time": 141.578
+  },
+  {
+    "voltageMeasured": 3.933846618548325,
+    "currentMeasured": -0.9956941482618694,
+    "currentCharge": 1,
+    "voltageCharge": 3.37,
+    "temperature": 5.515714320491757,
+    "location": [
+      -47.13931670084901,
+      133.19584879410388
+    ],
+    "time": 154.719
+  },
+  {
+    "voltageMeasured": 3.9273923546175737,
+    "currentMeasured": -0.9940850873517164,
+    "currentCharge": 1,
+    "voltageCharge": 3.366,
+    "temperature": 5.4568091229908875,
+    "location": [
+      -38.93817184676503,
+      -117.25627630144123
+    ],
+    "time": 167.813
+  },
+  {
+    "voltageMeasured": 3.9211979790578178,
+    "currentMeasured": -0.9950662880111943,
+    "currentCharge": 1,
+    "voltageCharge": 3.361,
+    "temperature": 5.378785107690307,
+    "location": [
+      -17.941145689072556,
+      140.7971198634582
+    ],
+    "time": 180.906
+  },
+  {
+    "voltageMeasured": 3.915208326950005,
+    "currentMeasured": -0.9965696991693939,
+    "currentCharge": 1,
+    "voltageCharge": 3.355,
+    "temperature": 5.314407193763756,
+    "location": [
+      -85.65980994547515,
+      31.23655356819671
+    ],
+    "time": 194
+  },
+  {
+    "voltageMeasured": 3.909650115868643,
+    "currentMeasured": -0.9951613853874831,
+    "currentCharge": 1,
+    "voltageCharge": 3.351,
+    "temperature": 5.274538338221796,
+    "location": [
+      -84.75635451350401,
+      -132.26626295069593
+    ],
+    "time": 207.11
+  },
+  {
+    "voltageMeasured": 3.9041901362705107,
+    "currentMeasured": -0.994442528618331,
+    "currentCharge": 1,
+    "voltageCharge": 3.346,
+    "temperature": 5.174515866306435,
+    "location": [
+      81.54799105073835,
+      -47.74518526618118
+    ],
+    "time": 220.219
+  },
+  {
+    "voltageMeasured": 3.898996130971163,
+    "currentMeasured": -0.9952093480998665,
+    "currentCharge": 1,
+    "voltageCharge": 3.341,
+    "temperature": 5.129142434341374,
+    "location": [
+      -7.322691422982189,
+      -178.67133366562018
+    ],
+    "time": 233.313
+  },
+  {
+    "voltageMeasured": 3.893760440969397,
+    "currentMeasured": -0.9957485990432231,
+    "currentCharge": 1,
+    "voltageCharge": 3.337,
+    "temperature": 5.0080842944609065,
+    "location": [
+      -47.51170023025512,
+      178.8615745505794
+    ],
+    "time": 246.422
+  },
+  {
+    "voltageMeasured": 3.8888064621954284,
+    "currentMeasured": -0.9941803955256571,
+    "currentCharge": 1,
+    "voltageCharge": 3.332,
+    "temperature": 5.0513007595673205,
+    "location": [
+      -4.30153950448593,
+      -151.0632317449507
+    ],
+    "time": 259.547
+  },
+  {
+    "voltageMeasured": 3.884369300425002,
+    "currentMeasured": -0.994410212815932,
+    "currentCharge": 1,
+    "voltageCharge": 3.328,
+    "temperature": 5.242850809235625,
+    "location": [
+      -4.938266856726045,
+      143.13153666788526
+    ],
+    "time": 272.625
+  },
+  {
+    "voltageMeasured": 3.880096698887316,
+    "currentMeasured": -0.9964445294011435,
+    "currentCharge": 1,
+    "voltageCharge": 3.324,
+    "temperature": 5.3867348931750225,
+    "location": [
+      87.8431044589712,
+      59.79153306604667
+    ],
+    "time": 285.75
+  },
+  {
+    "voltageMeasured": 3.876255755266973,
+    "currentMeasured": -0.9961923722011251,
+    "currentCharge": 1,
+    "voltageCharge": 3.32,
+    "temperature": 5.51397664323308,
+    "location": [
+      37.250301754773034,
+      110.51532909589713
+    ],
+    "time": 298.86
+  },
+  {
+    "voltageMeasured": 3.872645902645617,
+    "currentMeasured": -0.9939479549284844,
+    "currentCharge": 1,
+    "voltageCharge": 3.317,
+    "temperature": 5.639390668885933,
+    "location": [
+      -19.828109977478647,
+      26.46435849197306
+    ],
+    "time": 311.953
+  },
+  {
+    "voltageMeasured": 3.86915800564983,
+    "currentMeasured": -0.9963734012434594,
+    "currentCharge": 1,
+    "voltageCharge": 3.314,
+    "temperature": 5.7583258473072965,
+    "location": [
+      -35.98922092250229,
+      92.27314525301364
+    ],
+    "time": 325.094
+  },
+  {
+    "voltageMeasured": 3.8660153713500423,
+    "currentMeasured": -0.9951464867445037,
+    "currentCharge": 1,
+    "voltageCharge": 3.311,
+    "temperature": 5.832963155162861,
+    "location": [
+      83.76707149595862,
+      125.86722569878532
+    ],
+    "time": 338.172
+  },
+  {
+    "voltageMeasured": 3.862977664836382,
+    "currentMeasured": -0.9943591514089719,
+    "currentCharge": 1,
+    "voltageCharge": 3.308,
+    "temperature": 5.915867236906388,
+    "location": [
+      61.994883220621176,
+      130.56396381991493
+    ],
+    "time": 351.235
+  },
+  {
+    "voltageMeasured": 3.8604069574572226,
+    "currentMeasured": -0.995296692602884,
+    "currentCharge": 1,
+    "voltageCharge": 3.306,
+    "temperature": 5.973522128048028,
+    "location": [
+      -31.139194802981905,
+      105.3597137627736
+    ],
+    "time": 364.313
+  },
+  {
+    "voltageMeasured": 3.8574103612896185,
+    "currentMeasured": -0.9935060430239315,
+    "currentCharge": 1,
+    "voltageCharge": 3.303,
+    "temperature": 6.037473774870282,
+    "location": [
+      22.71516086279277,
+      73.7705270496349
+    ],
+    "time": 377.406
+  },
+  {
+    "voltageMeasured": 3.8547113673136124,
+    "currentMeasured": -0.9942100515901466,
+    "currentCharge": 1,
+    "voltageCharge": 3.301,
+    "temperature": 6.112633317377791,
+    "location": [
+      -42.02413603642297,
+      77.87743680292402
+    ],
+    "time": 390.516
+  },
+  {
+    "voltageMeasured": 3.8520056988643425,
+    "currentMeasured": -0.9950611209001146,
+    "currentCharge": 1,
+    "voltageCharge": 3.298,
+    "temperature": 6.19076421543365,
+    "location": [
+      26.34431724420375,
+      36.96622750488521
+    ],
+    "time": 403.61
+  },
+  {
+    "voltageMeasured": 3.8496045007296327,
+    "currentMeasured": -0.995206016542608,
+    "currentCharge": 1,
+    "voltageCharge": 3.296,
+    "temperature": 6.22875775299197,
+    "location": [
+      49.803149190058946,
+      77.24967595289104
+    ],
+    "time": 416.688
+  },
+  {
+    "voltageMeasured": 3.847234477772906,
+    "currentMeasured": -0.9950955697446252,
+    "currentCharge": 1,
+    "voltageCharge": 3.294,
+    "temperature": 6.296519506121976,
+    "location": [
+      -28.339251541374452,
+      -118.20084035219048
+    ],
+    "time": 429.75
+  },
+  {
+    "voltageMeasured": 3.845001919852917,
+    "currentMeasured": -0.9958643305396327,
+    "currentCharge": 1,
+    "voltageCharge": 3.292,
+    "temperature": 6.34122131523753,
+    "location": [
+      46.854538227452565,
+      61.418692374901525
+    ],
+    "time": 442.875
+  },
+  {
+    "voltageMeasured": 3.8427341381590816,
+    "currentMeasured": -0.9956288361275436,
+    "currentCharge": 1,
+    "voltageCharge": 3.29,
+    "temperature": 6.394275142289426,
+    "location": [
+      36.463619931188575,
+      43.82113818677493
+    ],
+    "time": 455.922
+  },
+  {
+    "voltageMeasured": 3.8406256257585434,
+    "currentMeasured": -0.996504997539146,
+    "currentCharge": 1,
+    "voltageCharge": 3.288,
+    "temperature": 6.457729510968821,
+    "location": [
+      62.772316069684734,
+      31.899439520796648
+    ],
+    "time": 469.031
+  },
+  {
+    "voltageMeasured": 3.838447188776546,
+    "currentMeasured": -0.9972706744973932,
+    "currentCharge": 1,
+    "voltageCharge": 3.286,
+    "temperature": 6.518485933903448,
+    "location": [
+      9.407338712376657,
+      -33.897393392096035
+    ],
+    "time": 482.11
+  },
+  {
+    "voltageMeasured": 3.8364523101357952,
+    "currentMeasured": -0.9966933900172557,
+    "currentCharge": 1,
+    "voltageCharge": 3.284,
+    "temperature": 6.573952637817425,
+    "location": [
+      -85.21378205500245,
+      140.1182774974058
+    ],
+    "time": 495.235
+  },
+  {
+    "voltageMeasured": 3.834430074367508,
+    "currentMeasured": -0.9949790996062884,
+    "currentCharge": 1,
+    "voltageCharge": 3.282,
+    "temperature": 6.623962079256748,
+    "location": [
+      -87.07527895030351,
+      -114.07101115759899
+    ],
+    "time": 508.313
+  },
+  {
+    "voltageMeasured": 3.83230302104837,
+    "currentMeasured": -0.9951129908922156,
+    "currentCharge": 1,
+    "voltageCharge": 3.28,
+    "temperature": 6.674110923513634,
+    "location": [
+      87.28461398009031,
+      105.59363798384135
+    ],
+    "time": 521.391
+  },
+  {
+    "voltageMeasured": 3.8304759609452868,
+    "currentMeasured": -0.9954986454273824,
+    "currentCharge": 1,
+    "voltageCharge": 3.278,
+    "temperature": 6.726003781986401,
+    "location": [
+      50.564552468570184,
+      122.99232348479774
+    ],
+    "time": 534.469
+  },
+  {
+    "voltageMeasured": 3.828399404399783,
+    "currentMeasured": -0.9963277314237113,
+    "currentCharge": 1,
+    "voltageCharge": 3.276,
+    "temperature": 6.804624308817502,
+    "location": [
+      -8.892801981825443,
+      38.146773416999906
+    ],
+    "time": 547.578
+  },
+  {
+    "voltageMeasured": 3.826609993022845,
+    "currentMeasured": -0.9962659175936134,
+    "currentCharge": 1,
+    "voltageCharge": 3.275,
+    "temperature": 6.841049855853733,
+    "location": [
+      0.06468217685294064,
+      -87.73186594221994
+    ],
+    "time": 560.641
+  },
+  {
+    "voltageMeasured": 3.8246024143409474,
+    "currentMeasured": -0.9954347077256148,
+    "currentCharge": 1,
+    "voltageCharge": 3.273,
+    "temperature": 6.886019578096048,
+    "location": [
+      -74.20338012398165,
+      124.90410344718254
+    ],
+    "time": 573.719
+  },
+  {
+    "voltageMeasured": 3.822756320577678,
+    "currentMeasured": -0.9941063145303712,
+    "currentCharge": 1,
+    "voltageCharge": 3.271,
+    "temperature": 6.933161265981976,
+    "location": [
+      -18.543448418388877,
+      147.81569465864158
+    ],
+    "time": 586.813
+  },
+  {
+    "voltageMeasured": 3.820908790985978,
+    "currentMeasured": -0.9954643335212013,
+    "currentCharge": 1,
+    "voltageCharge": 3.27,
+    "temperature": 7.000959062412805,
+    "location": [
+      -87.08811807063813,
+      -41.299042471222265
+    ],
+    "time": 599.969
+  },
+  {
+    "voltageMeasured": 3.8190957665514347,
+    "currentMeasured": -0.9946717627987917,
+    "currentCharge": 1,
+    "voltageCharge": 3.268,
+    "temperature": 7.045317695768369,
+    "location": [
+      52.06840769188918,
+      8.087704643703603
+    ],
+    "time": 613.078
+  },
+  {
+    "voltageMeasured": 3.8172831131958254,
+    "currentMeasured": -0.995318088142584,
+    "currentCharge": 1,
+    "voltageCharge": 3.266,
+    "temperature": 7.083648583752396,
+    "location": [
+      41.47085576252414,
+      134.91695357790314
+    ],
+    "time": 626.141
+  },
+  {
+    "voltageMeasured": 3.8152641791490463,
+    "currentMeasured": -0.9954429139593627,
+    "currentCharge": 1,
+    "voltageCharge": 3.264,
+    "temperature": 7.129010663190527,
+    "location": [
+      -0.5516745509507501,
+      64.10265192178773
+    ],
+    "time": 639.25
+  },
+  {
+    "voltageMeasured": 3.8136637848774813,
+    "currentMeasured": -0.9965369280840296,
+    "currentCharge": 1,
+    "voltageCharge": 3.262,
+    "temperature": 7.189792086760854,
+    "location": [
+      88.09825345132668,
+      -106.08366715256648
+    ],
+    "time": 652.36
+  },
+  {
+    "voltageMeasured": 3.81170310005412,
+    "currentMeasured": -0.9949964407521323,
+    "currentCharge": 1,
+    "voltageCharge": 3.26,
+    "temperature": 7.227604996389768,
+    "location": [
+      -84.59397969965846,
+      -131.3722342376423
+    ],
+    "time": 665.453
+  },
+  {
+    "voltageMeasured": 3.809907427192365,
+    "currentMeasured": -0.9962826417433585,
+    "currentCharge": 1,
+    "voltageCharge": 3.258,
+    "temperature": 7.287290052090583,
+    "location": [
+      -53.55982826376429,
+      151.076473211242
+    ],
+    "time": 678.469
+  },
+  {
+    "voltageMeasured": 3.807906799195623,
+    "currentMeasured": -0.9952322277137801,
+    "currentCharge": 1,
+    "voltageCharge": 3.256,
+    "temperature": 7.345077897555986,
+    "location": [
+      0.6722118944590676,
+      97.06230706738933
+    ],
+    "time": 691.594
+  },
+  {
+    "voltageMeasured": 3.80611910722536,
+    "currentMeasured": -0.9932864998010256,
+    "currentCharge": 1,
+    "voltageCharge": 3.254,
+    "temperature": 7.377228607104127,
+    "location": [
+      -33.155213012674196,
+      -20.360889302656858
+    ],
+    "time": 704.719
+  },
+  {
+    "voltageMeasured": 3.8041808018263827,
+    "currentMeasured": -0.99646714834205,
+    "currentCharge": 1,
+    "voltageCharge": 3.253,
+    "temperature": 7.4240593195253215,
+    "location": [
+      44.58030119600062,
+      -49.221515003062905
+    ],
+    "time": 717.813
+  },
+  {
+    "voltageMeasured": 3.8023697972773256,
+    "currentMeasured": -0.9947588425720842,
+    "currentCharge": 1,
+    "voltageCharge": 3.251,
+    "temperature": 7.472801408236855,
+    "location": [
+      76.33547670497714,
+      -91.8853329681379
+    ],
+    "time": 730.906
+  },
+  {
+    "voltageMeasured": 3.8004410050297723,
+    "currentMeasured": -0.9954323244495933,
+    "currentCharge": 1,
+    "voltageCharge": 3.249,
+    "temperature": 7.525452294819468,
+    "location": [
+      35.30811399714186,
+      -48.221576912596106
+    ],
+    "time": 744
+  },
+  {
+    "voltageMeasured": 3.7986093978653774,
+    "currentMeasured": -0.9976397809100185,
+    "currentCharge": 1,
+    "voltageCharge": 3.247,
+    "temperature": 7.547809576054494,
+    "location": [
+      -62.84203750983862,
+      -105.39277673904488
+    ],
+    "time": 757.156
+  },
+  {
+    "voltageMeasured": 3.79659838519063,
+    "currentMeasured": -0.9952786208007839,
+    "currentCharge": 1,
+    "voltageCharge": 3.246,
+    "temperature": 7.607205521750932,
+    "location": [
+      -10.10698449088575,
+      -164.13152309033228
+    ],
+    "time": 770.235
+  },
+  {
+    "voltageMeasured": 3.7946730296337585,
+    "currentMeasured": -0.9962399832623627,
+    "currentCharge": 1,
+    "voltageCharge": 3.244,
+    "temperature": 7.630981284550499,
+    "location": [
+      -40.35273522038554,
+      -13.193583085591257
+    ],
+    "time": 783.281
+  },
+  {
+    "voltageMeasured": 3.792815863957842,
+    "currentMeasured": -0.9953861771994486,
+    "currentCharge": 1,
+    "voltageCharge": 3.242,
+    "temperature": 7.680971344527507,
+    "location": [
+      -72.0190037220348,
+      174.7354706695786
+    ],
+    "time": 796.344
+  },
+  {
+    "voltageMeasured": 3.790841614490357,
+    "currentMeasured": -0.9970099643891552,
+    "currentCharge": 1,
+    "voltageCharge": 3.24,
+    "temperature": 7.721158201653575,
+    "location": [
+      49.29956259437614,
+      -85.51819341260646
+    ],
+    "time": 809.406
+  },
+  {
+    "voltageMeasured": 3.7888287039992252,
+    "currentMeasured": -0.995779247103005,
+    "currentCharge": 1,
+    "voltageCharge": 3.238,
+    "temperature": 7.7481279471710645,
+    "location": [
+      74.26217225998329,
+      -96.57529292681127
+    ],
+    "time": 822.469
+  },
+  {
+    "voltageMeasured": 3.786995486891371,
+    "currentMeasured": -0.995029959974381,
+    "currentCharge": 1,
+    "voltageCharge": 3.236,
+    "temperature": 7.806682940069068,
+    "location": [
+      21.55863686949408,
+      149.03358779892125
+    ],
+    "time": 835.61
+  },
+  {
+    "voltageMeasured": 3.7848459916565207,
+    "currentMeasured": -0.9953164998798757,
+    "currentCharge": 1,
+    "voltageCharge": 3.234,
+    "temperature": 7.830478455083007,
+    "location": [
+      17.714014961115723,
+      -51.34867412112902
+    ],
+    "time": 848.719
+  },
+  {
+    "voltageMeasured": 3.782873708848514,
+    "currentMeasured": -0.9957343719317555,
+    "currentCharge": 1,
+    "voltageCharge": 3.232,
+    "temperature": 7.8602266169574495,
+    "location": [
+      -35.08416191607202,
+      7.716889696884266
+    ],
+    "time": 861.828
+  },
+  {
+    "voltageMeasured": 3.7808485837303354,
+    "currentMeasured": -0.9959073208635747,
+    "currentCharge": 1,
+    "voltageCharge": 3.23,
+    "temperature": 7.885436181355095,
+    "location": [
+      74.59227842243581,
+      58.47592351952369
+    ],
+    "time": 874.891
+  },
+  {
+    "voltageMeasured": 3.7786938098152176,
+    "currentMeasured": -0.995826285276172,
+    "currentCharge": 1,
+    "voltageCharge": 3.228,
+    "temperature": 7.916413610989186,
+    "location": [
+      79.38544108096255,
+      -162.24513522539758
+    ],
+    "time": 887.969
+  },
+  {
+    "voltageMeasured": 3.7766835366135187,
+    "currentMeasured": -0.9950689456570211,
+    "currentCharge": 1,
+    "voltageCharge": 3.226,
+    "temperature": 7.959721784280496,
+    "location": [
+      42.066463271480984,
+      -130.3609551821184
+    ],
+    "time": 901.063
+  },
+  {
+    "voltageMeasured": 3.774582179077702,
+    "currentMeasured": -0.9948610032105965,
+    "currentCharge": 1,
+    "voltageCharge": 3.224,
+    "temperature": 7.998292255141301,
+    "location": [
+      25.330915762106414,
+      2.5466405359763087
+    ],
+    "time": 914.156
+  },
+  {
+    "voltageMeasured": 3.7723544104300206,
+    "currentMeasured": -0.9959289728012028,
+    "currentCharge": 1,
+    "voltageCharge": 3.222,
+    "temperature": 8.022614655135959,
+    "location": [
+      -20.063518316627835,
+      -38.52400915327081
+    ],
+    "time": 927.281
+  },
+  {
+    "voltageMeasured": 3.7701972153356764,
+    "currentMeasured": -0.9949926215027637,
+    "currentCharge": 1,
+    "voltageCharge": 3.22,
+    "temperature": 8.059762003102128,
+    "location": [
+      -63.206982149902814,
+      -68.9597633443501
+    ],
+    "time": 940.391
+  },
+  {
+    "voltageMeasured": 3.7680936713877773,
+    "currentMeasured": -0.9953089037288863,
+    "currentCharge": 1,
+    "voltageCharge": 3.218,
+    "temperature": 8.091633057842847,
+    "location": [
+      11.143610783265018,
+      140.26752097750153
+    ],
+    "time": 953.547
+  },
+  {
+    "voltageMeasured": 3.765989332306821,
+    "currentMeasured": -0.9951208631426501,
+    "currentCharge": 1,
+    "voltageCharge": 3.216,
+    "temperature": 8.125330273628556,
+    "location": [
+      -79.60806258370081,
+      -82.27688356906735
+    ],
+    "time": 966.594
+  },
+  {
+    "voltageMeasured": 3.7639903400410133,
+    "currentMeasured": -0.9944615109736529,
+    "currentCharge": 1,
+    "voltageCharge": 3.214,
+    "temperature": 8.173968076030494,
+    "location": [
+      -21.233564632053643,
+      -112.68856810696894
+    ],
+    "time": 979.656
+  },
+  {
+    "voltageMeasured": 3.7619612196527115,
+    "currentMeasured": -0.9957692804043621,
+    "currentCharge": 1,
+    "voltageCharge": 3.212,
+    "temperature": 8.197198798220212,
+    "location": [
+      34.51762668116068,
+      85.08435347419942
+    ],
+    "time": 992.719
+  },
+  {
+    "voltageMeasured": 3.759717367935965,
+    "currentMeasured": -0.9944744210439318,
+    "currentCharge": 1,
+    "voltageCharge": 3.21,
+    "temperature": 8.231139185327839,
+    "location": [
+      -4.845669036842651,
+      -28.66029683209146
+    ],
+    "time": 1005.828
+  },
+  {
+    "voltageMeasured": 3.7577617225027766,
+    "currentMeasured": -0.9944723610872652,
+    "currentCharge": 1,
+    "voltageCharge": 3.207,
+    "temperature": 8.230115067753639,
+    "location": [
+      -29.290210200316068,
+      76.18699034719941
+    ],
+    "time": 1018.953
+  },
+  {
+    "voltageMeasured": 3.755571558674588,
+    "currentMeasured": -0.994123695230429,
+    "currentCharge": 1,
+    "voltageCharge": 3.206,
+    "temperature": 8.255355668501602,
+    "location": [
+      -13.50677741498869,
+      62.53810486982326
+    ],
+    "time": 1032.016
+  },
+  {
+    "voltageMeasured": 3.7536078607701238,
+    "currentMeasured": -0.9969534443988302,
+    "currentCharge": 1,
+    "voltageCharge": 3.204,
+    "temperature": 8.27964589020932,
+    "location": [
+      -65.24473667361005,
+      -15.076890990565943
+    ],
+    "time": 1045.078
+  },
+  {
+    "voltageMeasured": 3.7512886322023578,
+    "currentMeasured": -0.9943420410878725,
+    "currentCharge": 1,
+    "voltageCharge": 3.201,
+    "temperature": 8.29829627284041,
+    "location": [
+      82.45354351494069,
+      -110.66731341606125
+    ],
+    "time": 1058.188
+  },
+  {
+    "voltageMeasured": 3.749279095316093,
+    "currentMeasured": -0.9955355195292598,
+    "currentCharge": 1,
+    "voltageCharge": 3.199,
+    "temperature": 8.325840071201606,
+    "location": [
+      14.280173354715771,
+      -34.990306738710075
+    ],
+    "time": 1071.313
+  },
+  {
+    "voltageMeasured": 3.7470027908456234,
+    "currentMeasured": -0.9957825256597401,
+    "currentCharge": 1,
+    "voltageCharge": 3.197,
+    "temperature": 8.363321204082151,
+    "location": [
+      -16.85507426006629,
+      60.83458794711922
+    ],
+    "time": 1084.406
+  },
+  {
+    "voltageMeasured": 3.7451682874208494,
+    "currentMeasured": -0.9969453226186638,
+    "currentCharge": 1,
+    "voltageCharge": 3.195,
+    "temperature": 8.409383018574989,
+    "location": [
+      6.874529408435762,
+      -71.04217082306451
+    ],
+    "time": 1097.563
+  },
+  {
+    "voltageMeasured": 3.7431259403945343,
+    "currentMeasured": -0.9956704595063078,
+    "currentCharge": 1,
+    "voltageCharge": 3.193,
+    "temperature": 8.446759891639683,
+    "location": [
+      -86.37168453792647,
+      149.24294333972784
+    ],
+    "time": 1110.625
+  },
+  {
+    "voltageMeasured": 3.7412375096260413,
+    "currentMeasured": -0.9951106495177373,
+    "currentCharge": 1,
+    "voltageCharge": 3.191,
+    "temperature": 8.449758304396237,
+    "location": [
+      -56.55002648510124,
+      -18.016903799315514
+    ],
+    "time": 1123.703
+  },
+  {
+    "voltageMeasured": 3.7390344660326815,
+    "currentMeasured": -0.994685736530522,
+    "currentCharge": 1,
+    "voltageCharge": 3.19,
+    "temperature": 8.471811692181753,
+    "location": [
+      -82.23175744395714,
+      72.93024143035794
+    ],
+    "time": 1136.781
+  },
+  {
+    "voltageMeasured": 3.7370668587733604,
+    "currentMeasured": -0.9961079372902104,
+    "currentCharge": 1,
+    "voltageCharge": 3.187,
+    "temperature": 8.486003041786956,
+    "location": [
+      -72.32892824817242,
+      64.85607229184285
+    ],
+    "time": 1149.875
+  },
+  {
+    "voltageMeasured": 3.735033527196567,
+    "currentMeasured": -0.9952855341570285,
+    "currentCharge": 1,
+    "voltageCharge": 3.185,
+    "temperature": 8.496496508089924,
+    "location": [
+      46.616287539268995,
+      -136.66745650415214
+    ],
+    "time": 1162.985
+  },
+  {
+    "voltageMeasured": 3.7332197371324507,
+    "currentMeasured": -0.996326115093904,
+    "currentCharge": 1,
+    "voltageCharge": 3.183,
+    "temperature": 8.530907356216101,
+    "location": [
+      -72.59161018471474,
+      70.68619413362663
+    ],
+    "time": 1176.047
+  },
+  {
+    "voltageMeasured": 3.7313638811450076,
+    "currentMeasured": -0.993839860282976,
+    "currentCharge": 1,
+    "voltageCharge": 3.181,
+    "temperature": 8.558322853519012,
+    "location": [
+      10.91715169161941,
+      61.48565430852983
+    ],
+    "time": 1189.156
+  },
+  {
+    "voltageMeasured": 3.729264025285725,
+    "currentMeasured": -0.9930974495315241,
+    "currentCharge": 1,
+    "voltageCharge": 3.18,
+    "temperature": 8.585014592832911,
+    "location": [
+      3.846043753585576,
+      162.3862066025984
+    ],
+    "time": 1202.235
+  },
+  {
+    "voltageMeasured": 3.727398530118085,
+    "currentMeasured": -0.9949567939055464,
+    "currentCharge": 1,
+    "voltageCharge": 3.178,
+    "temperature": 8.605322182817584,
+    "location": [
+      -6.349046148597523,
+      -85.03749388758133
+    ],
+    "time": 1215.328
+  },
+  {
+    "voltageMeasured": 3.7255684928652926,
+    "currentMeasured": -0.9957590084995643,
+    "currentCharge": 1,
+    "voltageCharge": 3.176,
+    "temperature": 8.610200871608058,
+    "location": [
+      -49.793728749523474,
+      123.83576014388046
+    ],
+    "time": 1228.516
+  },
+  {
+    "voltageMeasured": 3.723618680964378,
+    "currentMeasured": -0.994244528851099,
+    "currentCharge": 1,
+    "voltageCharge": 3.174,
+    "temperature": 8.624214693858512,
+    "location": [
+      -41.01822481773208,
+      40.50659203288757
+    ],
+    "time": 1241.625
+  },
+  {
+    "voltageMeasured": 3.7220126879149333,
+    "currentMeasured": -0.9950411590663236,
+    "currentCharge": 1,
+    "voltageCharge": 3.172,
+    "temperature": 8.643997358454065,
+    "location": [
+      -25.611952295344622,
+      -168.4015784689336
+    ],
+    "time": 1254.75
+  },
+  {
+    "voltageMeasured": 3.7200796422062696,
+    "currentMeasured": -0.9954014492734136,
+    "currentCharge": 1,
+    "voltageCharge": 3.171,
+    "temperature": 8.61953621351629,
+    "location": [
+      27.55879545116977,
+      -103.16168116244906
+    ],
+    "time": 1267.828
+  },
+  {
+    "voltageMeasured": 3.718112634927389,
+    "currentMeasured": -0.9948419023185047,
+    "currentCharge": 1,
+    "voltageCharge": 3.169,
+    "temperature": 8.455470431742864,
+    "location": [
+      36.71405869359046,
+      130.53227097670617
+    ],
+    "time": 1280.875
+  },
+  {
+    "voltageMeasured": 3.7161106537969233,
+    "currentMeasured": -0.9941519734839064,
+    "currentCharge": 1,
+    "voltageCharge": 3.167,
+    "temperature": 8.220237723209046,
+    "location": [
+      47.94420021689649,
+      -164.08913282512577
+    ],
+    "time": 1293.922
+  },
+  {
+    "voltageMeasured": 3.7138357695796187,
+    "currentMeasured": -0.996111971440915,
+    "currentCharge": 1,
+    "voltageCharge": 3.165,
+    "temperature": 8.025831807824629,
+    "location": [
+      -66.07454693637041,
+      131.98236273469098
+    ],
+    "time": 1307
+  },
+  {
+    "voltageMeasured": 3.711580109590676,
+    "currentMeasured": -0.996016339513243,
+    "currentCharge": 1,
+    "voltageCharge": 3.162,
+    "temperature": 7.851163506079849,
+    "location": [
+      80.8461152610598,
+      8.57940649574212
+    ],
+    "time": 1320.11
+  },
+  {
+    "voltageMeasured": 3.7088908306616184,
+    "currentMeasured": -0.9942114843811539,
+    "currentCharge": 1,
+    "voltageCharge": 3.16,
+    "temperature": 7.6258328691965565,
+    "location": [
+      50.837854465266815,
+      170.6059047428451
+    ],
+    "time": 1333.188
+  },
+  {
+    "voltageMeasured": 3.7064322799997726,
+    "currentMeasured": -0.9955102645920286,
+    "currentCharge": 1,
+    "voltageCharge": 3.158,
+    "temperature": 7.502000270202232,
+    "location": [
+      -66.20768883163741,
+      173.17363382713472
+    ],
+    "time": 1346.328
+  },
+  {
+    "voltageMeasured": 3.7037259277203165,
+    "currentMeasured": -0.9959129054256097,
+    "currentCharge": 1,
+    "voltageCharge": 3.155,
+    "temperature": 7.342150103324517,
+    "location": [
+      -29.561428956373,
+      73.52411715999114
+    ],
+    "time": 1359.453
+  },
+  {
+    "voltageMeasured": 3.701009577429229,
+    "currentMeasured": -0.9951418813079677,
+    "currentCharge": 1,
+    "voltageCharge": 3.152,
+    "temperature": 7.177924044615382,
+    "location": [
+      1.1142406000041376,
+      -110.30475067144388
+    ],
+    "time": 1372.5
+  },
+  {
+    "voltageMeasured": 3.6983343324213207,
+    "currentMeasured": -0.9974875737235147,
+    "currentCharge": 1,
+    "voltageCharge": 3.15,
+    "temperature": 7.0892261264530445,
+    "location": [
+      -29.47878816791828,
+      1.7763477167017925
+    ],
+    "time": 1385.578
+  },
+  {
+    "voltageMeasured": 3.6953488697147763,
+    "currentMeasured": -0.996694402715554,
+    "currentCharge": 1,
+    "voltageCharge": 3.147,
+    "temperature": 7.043927477707418,
+    "location": [
+      40.54434514394157,
+      -54.877465354789535
+    ],
+    "time": 1398.656
+  },
+  {
+    "voltageMeasured": 3.6925543600194906,
+    "currentMeasured": -0.9953324665155312,
+    "currentCharge": 1,
+    "voltageCharge": 3.144,
+    "temperature": 6.876555852848435,
+    "location": [
+      -11.710877434482043,
+      164.4170850073624
+    ],
+    "time": 1411.735
+  },
+  {
+    "voltageMeasured": 3.6896750027953105,
+    "currentMeasured": -0.9946481913420039,
+    "currentCharge": 1,
+    "voltageCharge": 3.142,
+    "temperature": 6.768934198457415,
+    "location": [
+      6.06396120570794,
+      166.50653769594612
+    ],
+    "time": 1424.875
+  },
+  {
+    "voltageMeasured": 3.686627722343095,
+    "currentMeasured": -0.9950783056621598,
+    "currentCharge": 1,
+    "voltageCharge": 3.139,
+    "temperature": 6.676137520290696,
+    "location": [
+      38.87104056050828,
+      -42.92705470625202
+    ],
+    "time": 1437.953
+  },
+  {
+    "voltageMeasured": 3.6835363226306264,
+    "currentMeasured": -0.9954112912817182,
+    "currentCharge": 1,
+    "voltageCharge": 3.136,
+    "temperature": 6.470160273943063,
+    "location": [
+      87.23413105281685,
+      147.7521424040293
+    ],
+    "time": 1451.063
+  },
+  {
+    "voltageMeasured": 3.6805971470056362,
+    "currentMeasured": -0.9956968307414316,
+    "currentCharge": 1,
+    "voltageCharge": 3.133,
+    "temperature": 6.395082383354739,
+    "location": [
+      71.96450365827059,
+      -32.31141759568939
+    ],
+    "time": 1464.203
+  },
+  {
+    "voltageMeasured": 3.6777047804044383,
+    "currentMeasured": -0.9946478075725775,
+    "currentCharge": 1,
+    "voltageCharge": 3.13,
+    "temperature": 6.322070013092098,
+    "location": [
+      81.43704743135478,
+      -76.34790691602724
+    ],
+    "time": 1477.297
+  },
+  {
+    "voltageMeasured": 3.6747282701034774,
+    "currentMeasured": -0.9949713764398862,
+    "currentCharge": 1,
+    "voltageCharge": 3.127,
+    "temperature": 6.412802534739604,
+    "location": [
+      8.733556032563655,
+      -48.30067939534226
+    ],
+    "time": 1490.406
+  },
+  {
+    "voltageMeasured": 3.6719717756442996,
+    "currentMeasured": -0.9946676117777206,
+    "currentCharge": 1,
+    "voltageCharge": 3.124,
+    "temperature": 6.567600042506265,
+    "location": [
+      43.833398637138856,
+      -51.598889851898235
+    ],
+    "time": 1503.531
+  },
+  {
+    "voltageMeasured": 3.6693255745081426,
+    "currentMeasured": -0.9941299798483466,
+    "currentCharge": 1,
+    "voltageCharge": 3.122,
+    "temperature": 6.626682440690733,
+    "location": [
+      44.00224737790859,
+      -103.42418459937005
+    ],
+    "time": 1516.61
+  },
+  {
+    "voltageMeasured": 3.6668803845007294,
+    "currentMeasured": -0.9945751835445829,
+    "currentCharge": 1,
+    "voltageCharge": 3.12,
+    "temperature": 6.70811056021845,
+    "location": [
+      -64.99405139161809,
+      -168.98234062352475
+    ],
+    "time": 1529.656
+  },
+  {
+    "voltageMeasured": 3.6645898769615317,
+    "currentMeasured": -0.994930117715106,
+    "currentCharge": 1,
+    "voltageCharge": 3.117,
+    "temperature": 6.760369110541842,
+    "location": [
+      83.15662952193554,
+      169.47763118462046
+    ],
+    "time": 1542.797
+  },
+  {
+    "voltageMeasured": 3.6625940419397294,
+    "currentMeasured": -0.9962034744793202,
+    "currentCharge": 1,
+    "voltageCharge": 3.115,
+    "temperature": 6.798377113104937,
+    "location": [
+      58.35351405825887,
+      176.28790170548575
+    ],
+    "time": 1555.875
+  },
+  {
+    "voltageMeasured": 3.6604347136435247,
+    "currentMeasured": -0.9948563230341188,
+    "currentCharge": 1,
+    "voltageCharge": 3.113,
+    "temperature": 6.824123529291597,
+    "location": [
+      -8.157276566791793,
+      -107.29974480698839
+    ],
+    "time": 1568.938
+  },
+  {
+    "voltageMeasured": 3.6585643595650197,
+    "currentMeasured": -0.9938097060209097,
+    "currentCharge": 1,
+    "voltageCharge": 3.11,
+    "temperature": 6.8536713757334855,
+    "location": [
+      59.90148583506979,
+      -11.008874999048203
+    ],
+    "time": 1582.016
+  },
+  {
+    "voltageMeasured": 3.6564213125533906,
+    "currentMeasured": -0.9963529316158264,
+    "currentCharge": 1,
+    "voltageCharge": 3.108,
+    "temperature": 6.894541376041041,
+    "location": [
+      -38.510065030947196,
+      109.19423048270914
+    ],
+    "time": 1595.156
+  },
+  {
+    "voltageMeasured": 3.654683097722957,
+    "currentMeasured": -0.9961187781623763,
+    "currentCharge": 1,
+    "voltageCharge": 3.106,
+    "temperature": 6.89883185488623,
+    "location": [
+      -6.337653348414719,
+      45.242605044977694
+    ],
+    "time": 1608.203
+  },
+  {
+    "voltageMeasured": 3.65284206815776,
+    "currentMeasured": -0.9960090703402016,
+    "currentCharge": 1,
+    "voltageCharge": 3.105,
+    "temperature": 6.928060524843283,
+    "location": [
+      -13.000994716688169,
+      -172.80726882993724
+    ],
+    "time": 1621.313
+  },
+  {
+    "voltageMeasured": 3.65082376795281,
+    "currentMeasured": -0.9952234623538692,
+    "currentCharge": 1,
+    "voltageCharge": 3.103,
+    "temperature": 6.933217503588391,
+    "location": [
+      42.10239514182621,
+      -65.12566846474543
+    ],
+    "time": 1634.453
+  },
+  {
+    "voltageMeasured": 3.6492706693259414,
+    "currentMeasured": -0.9974011940468874,
+    "currentCharge": 1,
+    "voltageCharge": 3.101,
+    "temperature": 6.9504476950247245,
+    "location": [
+      41.63046565403147,
+      28.333880694496287
+    ],
+    "time": 1647.531
+  },
+  {
+    "voltageMeasured": 3.6473633335840785,
+    "currentMeasured": -0.9964950475031438,
+    "currentCharge": 1,
+    "voltageCharge": 3.1,
+    "temperature": 6.987606516630149,
+    "location": [
+      -64.10943043105077,
+      -77.01150044719428
+    ],
+    "time": 1660.61
+  },
+  {
+    "voltageMeasured": 3.645829033787948,
+    "currentMeasured": -0.9968271242389126,
+    "currentCharge": 1,
+    "voltageCharge": 3.098,
+    "temperature": 7.007298182059514,
+    "location": [
+      -80.43617870579973,
+      68.2068137334212
+    ],
+    "time": 1673.75
+  },
+  {
+    "voltageMeasured": 3.643899999619585,
+    "currentMeasured": -0.9949330931473949,
+    "currentCharge": 1,
+    "voltageCharge": 3.096,
+    "temperature": 7.026648660216888,
+    "location": [
+      29.49655469709748,
+      6.424925568688224
+    ],
+    "time": 1686.813
+  },
+  {
+    "voltageMeasured": 3.642440899706927,
+    "currentMeasured": -0.9949712251034812,
+    "currentCharge": 1,
+    "voltageCharge": 3.094,
+    "temperature": 7.044673370779933,
+    "location": [
+      33.78876575105558,
+      141.56672630202303
+    ],
+    "time": 1699.875
+  },
+  {
+    "voltageMeasured": 3.6407869362544867,
+    "currentMeasured": -0.9943299357158273,
+    "currentCharge": 1,
+    "voltageCharge": 3.092,
+    "temperature": 7.096530367808437,
+    "location": [
+      -35.15912320257218,
+      33.152628931787206
+    ],
+    "time": 1713
+  },
+  {
+    "voltageMeasured": 3.6392628904562723,
+    "currentMeasured": -0.9939749292946963,
+    "currentCharge": 1,
+    "voltageCharge": 3.09,
+    "temperature": 7.091983188127175,
+    "location": [
+      -45.48882947991827,
+      -116.23966362593887
+    ],
+    "time": 1726.11
+  },
+  {
+    "voltageMeasured": 3.6376029892129758,
+    "currentMeasured": -0.9958179758828851,
+    "currentCharge": 1,
+    "voltageCharge": 3.089,
+    "temperature": 7.105520332465928,
+    "location": [
+      -6.045669154288291,
+      -125.78837210966356
+    ],
+    "time": 1739.188
+  },
+  {
+    "voltageMeasured": 3.636199151010372,
+    "currentMeasured": -0.9961149613691316,
+    "currentCharge": 1,
+    "voltageCharge": 3.088,
+    "temperature": 7.152313213024637,
+    "location": [
+      3.492811900023071,
+      107.05719413551236
+    ],
+    "time": 1752.297
+  },
+  {
+    "voltageMeasured": 3.6345819035133466,
+    "currentMeasured": -0.9950450705516174,
+    "currentCharge": 1,
+    "voltageCharge": 3.086,
+    "temperature": 7.16921012325436,
+    "location": [
+      -32.150585808839786,
+      -115.67767942903802
+    ],
+    "time": 1765.438
+  },
+  {
+    "voltageMeasured": 3.633074472384529,
+    "currentMeasured": -0.9961339895767802,
+    "currentCharge": 1,
+    "voltageCharge": 3.084,
+    "temperature": 7.191955334768585,
+    "location": [
+      -65.04137217376541,
+      -42.08963477174231
+    ],
+    "time": 1778.531
+  },
+  {
+    "voltageMeasured": 3.631587442617661,
+    "currentMeasured": -0.9962057136887806,
+    "currentCharge": 1,
+    "voltageCharge": 3.082,
+    "temperature": 7.213497617773301,
+    "location": [
+      86.09072823143427,
+      -78.9009816255376
+    ],
+    "time": 1791.61
+  },
+  {
+    "voltageMeasured": 3.630157402732151,
+    "currentMeasured": -0.9960971241603039,
+    "currentCharge": 1,
+    "voltageCharge": 3.081,
+    "temperature": 7.2498527539567785,
+    "location": [
+      -88.42788758772504,
+      -74.13908713287364
+    ],
+    "time": 1804.766
+  },
+  {
+    "voltageMeasured": 3.6289464601105217,
+    "currentMeasured": -0.9948889524026385,
+    "currentCharge": 1,
+    "voltageCharge": 3.08,
+    "temperature": 7.268872978045589,
+    "location": [
+      71.55268209513437,
+      36.8524448983967
+    ],
+    "time": 1817.828
+  },
+  {
+    "voltageMeasured": 3.6274452595681477,
+    "currentMeasured": -0.995132545223056,
+    "currentCharge": 1,
+    "voltageCharge": 3.078,
+    "temperature": 7.319358564826542,
+    "location": [
+      -37.5278761974257,
+      87.01401161195531
+    ],
+    "time": 1830.922
+  },
+  {
+    "voltageMeasured": 3.6259958439446915,
+    "currentMeasured": -0.9950155851548838,
+    "currentCharge": 1,
+    "voltageCharge": 3.078,
+    "temperature": 7.339813876921313,
+    "location": [
+      -61.25526222709901,
+      72.97643359875696
+    ],
+    "time": 1844.078
+  },
+  {
+    "voltageMeasured": 3.6247964335111935,
+    "currentMeasured": -0.9950876649954635,
+    "currentCharge": 1,
+    "voltageCharge": 3.076,
+    "temperature": 7.386537779477706,
+    "location": [
+      89.56830151051875,
+      84.41679694794965
+    ],
+    "time": 1857.141
+  },
+  {
+    "voltageMeasured": 3.623276523942319,
+    "currentMeasured": -0.9940225469907001,
+    "currentCharge": 1,
+    "voltageCharge": 3.075,
+    "temperature": 7.401948985169916,
+    "location": [
+      77.42174172080882,
+      -166.03262790236755
+    ],
+    "time": 1870.203
+  },
+  {
+    "voltageMeasured": 3.621871006451532,
+    "currentMeasured": -0.9952204927118687,
+    "currentCharge": 1,
+    "voltageCharge": 3.074,
+    "temperature": 7.417450890981731,
+    "location": [
+      29.54391656120731,
+      -92.01562148816917
+    ],
+    "time": 1883.391
+  },
+  {
+    "voltageMeasured": 3.620455027114583,
+    "currentMeasured": -0.9972202104470355,
+    "currentCharge": 1,
+    "voltageCharge": 3.072,
+    "temperature": 7.43443289144081,
+    "location": [
+      65.38661848541679,
+      41.67901751007969
+    ],
+    "time": 1896.453
+  },
+  {
+    "voltageMeasured": 3.61933439182665,
+    "currentMeasured": -0.9955115288840111,
+    "currentCharge": 0.9998,
+    "voltageCharge": 3.071,
+    "temperature": 7.457925470841088,
+    "location": [
+      15.198486994605602,
+      -121.8932620281355
+    ],
+    "time": 1909.563
+  },
+  {
+    "voltageMeasured": 3.6179246505473572,
+    "currentMeasured": -0.9953790878706019,
+    "currentCharge": 1,
+    "voltageCharge": 3.07,
+    "temperature": 7.475872381859504,
+    "location": [
+      38.48244754696594,
+      -43.79982961711394
+    ],
+    "time": 1922.625
+  },
+  {
+    "voltageMeasured": 3.616557328054139,
+    "currentMeasured": -0.996107639617136,
+    "currentCharge": 1,
+    "voltageCharge": 3.069,
+    "temperature": 7.5195456367811335,
+    "location": [
+      44.69397956032205,
+      -149.76404605192707
+    ],
+    "time": 1935.719
+  },
+  {
+    "voltageMeasured": 3.615108029741642,
+    "currentMeasured": -0.9956098660911824,
+    "currentCharge": 1,
+    "voltageCharge": 3.068,
+    "temperature": 7.531754041373613,
+    "location": [
+      76.65803313072797,
+      49.76889720102585
+    ],
+    "time": 1948.797
+  },
+  {
+    "voltageMeasured": 3.614014441750432,
+    "currentMeasured": -0.9951686270397905,
+    "currentCharge": 1,
+    "voltageCharge": 3.066,
+    "temperature": 7.557120599679972,
+    "location": [
+      -45.791692820700156,
+      -88.64379510809927
+    ],
+    "time": 1961.922
+  },
+  {
+    "voltageMeasured": 3.612673145207526,
+    "currentMeasured": -0.9962696895212658,
+    "currentCharge": 1,
+    "voltageCharge": 3.065,
+    "temperature": 7.564529257334956,
+    "location": [
+      89.99805823467142,
+      170.48177465391797
+    ],
+    "time": 1975.031
+  },
+  {
+    "voltageMeasured": 3.611472207668035,
+    "currentMeasured": -0.9950310633929901,
+    "currentCharge": 1,
+    "voltageCharge": 3.064,
+    "temperature": 7.591484727048545,
+    "location": [
+      -23.312422996452625,
+      78.86051237009121
+    ],
+    "time": 1988.125
+  },
+  {
+    "voltageMeasured": 3.610250883716974,
+    "currentMeasured": -0.993717579054402,
+    "currentCharge": 1,
+    "voltageCharge": 3.063,
+    "temperature": 7.626175267453268,
+    "location": [
+      63.38680539498304,
+      -114.09107349252865
+    ],
+    "time": 2001.219
+  },
+  {
+    "voltageMeasured": 3.6088462641572634,
+    "currentMeasured": -0.9953985682333553,
+    "currentCharge": 1,
+    "voltageCharge": 3.062,
+    "temperature": 7.657414462074324,
+    "location": [
+      46.437282399678395,
+      -99.12149190852148
+    ],
+    "time": 2014.344
+  },
+  {
+    "voltageMeasured": 3.607704541232534,
+    "currentMeasured": -0.9951174861903187,
+    "currentCharge": 1,
+    "voltageCharge": 3.06,
+    "temperature": 7.693010556547348,
+    "location": [
+      -72.27562195937423,
+      165.77583074532936
+    ],
+    "time": 2027.485
+  },
+  {
+    "voltageMeasured": 3.6063978987777814,
+    "currentMeasured": -0.9957225181258293,
+    "currentCharge": 1,
+    "voltageCharge": 3.06,
+    "temperature": 7.700599588646982,
+    "location": [
+      74.58399352545905,
+      -149.32900257019074
+    ],
+    "time": 2040.594
+  },
+  {
+    "voltageMeasured": 3.605120792369809,
+    "currentMeasured": -0.9962704879830646,
+    "currentCharge": 1,
+    "voltageCharge": 3.058,
+    "temperature": 7.726846109890522,
+    "location": [
+      38.49230189312783,
+      -108.57729852949612
+    ],
+    "time": 2053.656
+  },
+  {
+    "voltageMeasured": 3.6039487080415795,
+    "currentMeasured": -0.9970295462327292,
+    "currentCharge": 1,
+    "voltageCharge": 3.057,
+    "temperature": 7.744277050914205,
+    "location": [
+      35.09758921869479,
+      -6.2090956302335485
+    ],
+    "time": 2066.766
+  },
+  {
+    "voltageMeasured": 3.6027942540656963,
+    "currentMeasured": -0.9948348398821282,
+    "currentCharge": 1,
+    "voltageCharge": 3.056,
+    "temperature": 7.783965272411576,
+    "location": [
+      -79.42249512196463,
+      120.21333070410122
+    ],
+    "time": 2079.922
+  },
+  {
+    "voltageMeasured": 3.6015579118413616,
+    "currentMeasured": -0.9952357853880275,
+    "currentCharge": 1,
+    "voltageCharge": 3.054,
+    "temperature": 7.780760770985912,
+    "location": [
+      -17.9571161042073,
+      -107.50175705613981
+    ],
+    "time": 2092.969
+  },
+  {
+    "voltageMeasured": 3.6003471487832583,
+    "currentMeasured": -0.9954525921931435,
+    "currentCharge": 1,
+    "voltageCharge": 3.053,
+    "temperature": 7.832797993547363,
+    "location": [
+      65.99046417683104,
+      -136.86338676454108
+    ],
+    "time": 2106.047
+  },
+  {
+    "voltageMeasured": 3.5990794720698536,
+    "currentMeasured": -0.9957743377123539,
+    "currentCharge": 1,
+    "voltageCharge": 3.052,
+    "temperature": 7.828663595342509,
+    "location": [
+      -80.07778353301869,
+      -149.36797050336867
+    ],
+    "time": 2119.219
+  },
+  {
+    "voltageMeasured": 3.597894442689749,
+    "currentMeasured": -0.9951756386081889,
+    "currentCharge": 1,
+    "voltageCharge": 3.051,
+    "temperature": 7.8573821535466575,
+    "location": [
+      89.5399881241737,
+      108.11470199341011
+    ],
+    "time": 2132.313
+  },
+  {
+    "voltageMeasured": 3.5966577933114543,
+    "currentMeasured": -0.9951192097689834,
+    "currentCharge": 1,
+    "voltageCharge": 3.05,
+    "temperature": 7.8671947044360016,
+    "location": [
+      -80.10513265584783,
+      -39.01229448180288
+    ],
+    "time": 2145.438
+  },
+  {
+    "voltageMeasured": 3.595464034092617,
+    "currentMeasured": -0.9949804312671499,
+    "currentCharge": 1,
+    "voltageCharge": 3.048,
+    "temperature": 7.904033324803994,
+    "location": [
+      86.86429531032988,
+      -40.856309401806215
+    ],
+    "time": 2158.531
+  },
+  {
+    "voltageMeasured": 3.5943050114576676,
+    "currentMeasured": -0.9954199679815365,
+    "currentCharge": 1,
+    "voltageCharge": 3.048,
+    "temperature": 7.9292103322289105,
+    "location": [
+      71.84900874331481,
+      170.90698912771558
+    ],
+    "time": 2171.594
+  },
+  {
+    "voltageMeasured": 3.5930768203529175,
+    "currentMeasured": -0.9960453259400797,
+    "currentCharge": 1,
+    "voltageCharge": 3.046,
+    "temperature": 7.94505668461075,
+    "location": [
+      68.86799083108039,
+      -94.26964147159039
+    ],
+    "time": 2184.703
+  },
+  {
+    "voltageMeasured": 3.59202884130152,
+    "currentMeasured": -0.9948548451344977,
+    "currentCharge": 1,
+    "voltageCharge": 3.046,
+    "temperature": 7.981958437737483,
+    "location": [
+      -50.90023935221749,
+      80.7371819422574
+    ],
+    "time": 2197.766
+  },
+  {
+    "voltageMeasured": 3.5907605470370214,
+    "currentMeasured": -0.9952101698184135,
+    "currentCharge": 1,
+    "voltageCharge": 3.044,
+    "temperature": 7.988535944691643,
+    "location": [
+      -7.313568975976835,
+      89.33676271163239
+    ],
+    "time": 2210.875
+  },
+  {
+    "voltageMeasured": 3.589696952364418,
+    "currentMeasured": -0.9945219996861386,
+    "currentCharge": 1,
+    "voltageCharge": 3.043,
+    "temperature": 8.004632646802825,
+    "location": [
+      72.361754370668,
+      79.31518989441469
+    ],
+    "time": 2223.969
+  },
+  {
+    "voltageMeasured": 3.5885875038658077,
+    "currentMeasured": -0.9954876126983337,
+    "currentCharge": 1,
+    "voltageCharge": 3.042,
+    "temperature": 8.028937993273097,
+    "location": [
+      27.510966724465646,
+      -95.61508064145593
+    ],
+    "time": 2237.047
+  },
+  {
+    "voltageMeasured": 3.5873710446307046,
+    "currentMeasured": -0.9944270875057147,
+    "currentCharge": 1,
+    "voltageCharge": 3.041,
+    "temperature": 8.057898202119535,
+    "location": [
+      -33.291518318035365,
+      37.31167151906226
+    ],
+    "time": 2250.094
+  },
+  {
+    "voltageMeasured": 3.586210110146122,
+    "currentMeasured": -0.9944614966467894,
+    "currentCharge": 1,
+    "voltageCharge": 3.04,
+    "temperature": 8.078839961085674,
+    "location": [
+      46.96520164669977,
+      10.558456737814709
+    ],
+    "time": 2263.25
+  },
+  {
+    "voltageMeasured": 3.585018791582806,
+    "currentMeasured": -0.9947554802342997,
+    "currentCharge": 1,
+    "voltageCharge": 3.038,
+    "temperature": 8.089568292605799,
+    "location": [
+      1.0575793223113692,
+      116.30306471964911
+    ],
+    "time": 2276.391
+  },
+  {
+    "voltageMeasured": 3.5840171601947794,
+    "currentMeasured": -0.9941425670423512,
+    "currentCharge": 1,
+    "voltageCharge": 3.038,
+    "temperature": 8.116380508609524,
+    "location": [
+      -1.558187837484823,
+      -43.593972704957764
+    ],
+    "time": 2289.547
+  },
+  {
+    "voltageMeasured": 3.582869298325823,
+    "currentMeasured": -0.9947781597397972,
+    "currentCharge": 1,
+    "voltageCharge": 3.036,
+    "temperature": 8.150374377020546,
+    "location": [
+      48.98320583192577,
+      -165.14907273150664
+    ],
+    "time": 2302.735
+  },
+  {
+    "voltageMeasured": 3.5817176068238727,
+    "currentMeasured": -0.9941294753557005,
+    "currentCharge": 1,
+    "voltageCharge": 3.035,
+    "temperature": 8.172067197118894,
+    "location": [
+      -33.070829823575956,
+      -62.90599668146339
+    ],
+    "time": 2315.781
+  },
+  {
+    "voltageMeasured": 3.5805678869158433,
+    "currentMeasured": -0.994265378621921,
+    "currentCharge": 1,
+    "voltageCharge": 3.034,
+    "temperature": 8.201583678466907,
+    "location": [
+      78.530314677473,
+      -169.6424789547829
+    ],
+    "time": 2328.86
+  },
+  {
+    "voltageMeasured": 3.5794072153395815,
+    "currentMeasured": -0.9950080412846722,
+    "currentCharge": 1,
+    "voltageCharge": 3.033,
+    "temperature": 8.197026272073884,
+    "location": [
+      -68.37639652578635,
+      -164.30482550821185
+    ],
+    "time": 2341.891
+  },
+  {
+    "voltageMeasured": 3.5782991029185562,
+    "currentMeasured": -0.9933248984029371,
+    "currentCharge": 1,
+    "voltageCharge": 3.032,
+    "temperature": 8.219764788257084,
+    "location": [
+      -37.09138075311678,
+      121.55323165661599
+    ],
+    "time": 2355
+  },
+  {
+    "voltageMeasured": 3.577290689746073,
+    "currentMeasured": -0.995128661487947,
+    "currentCharge": 1,
+    "voltageCharge": 3.031,
+    "temperature": 8.233502826479539,
+    "location": [
+      -75.43282544483097,
+      -1.1988512250328824
+    ],
+    "time": 2368.094
+  },
+  {
+    "voltageMeasured": 3.576158693517963,
+    "currentMeasured": -0.9943764064857548,
+    "currentCharge": 1,
+    "voltageCharge": 3.03,
+    "temperature": 8.26867194455713,
+    "location": [
+      -21.695915754722975,
+      -162.55490948235808
+    ],
+    "time": 2381.172
+  },
+  {
+    "voltageMeasured": 3.5750493466998514,
+    "currentMeasured": -0.9965620561015277,
+    "currentCharge": 1,
+    "voltageCharge": 3.028,
+    "temperature": 8.301435304055556,
+    "location": [
+      -45.725305216790034,
+      58.28052272891921
+    ],
+    "time": 2394.219
+  },
+  {
+    "voltageMeasured": 3.5739879568534088,
+    "currentMeasured": -0.9937571238315818,
+    "currentCharge": 1,
+    "voltageCharge": 3.028,
+    "temperature": 8.328915484606934,
+    "location": [
+      26.180767496523856,
+      -16.701043939431514
+    ],
+    "time": 2407.328
+  },
+  {
+    "voltageMeasured": 3.5729478836086153,
+    "currentMeasured": -0.9956627212250377,
+    "currentCharge": 1,
+    "voltageCharge": 3.027,
+    "temperature": 8.344129332065382,
+    "location": [
+      10.491543691968786,
+      20.870652594526206
+    ],
+    "time": 2420.438
+  },
+  {
+    "voltageMeasured": 3.5718299798606488,
+    "currentMeasured": -0.9946083366954795,
+    "currentCharge": 1,
+    "voltageCharge": 3.026,
+    "temperature": 8.375873203389485,
+    "location": [
+      79.06613456829942,
+      -105.4443614067087
+    ],
+    "time": 2433.531
+  },
+  {
+    "voltageMeasured": 3.5709170125543466,
+    "currentMeasured": -0.9952490780972957,
+    "currentCharge": 1,
+    "voltageCharge": 3.024,
+    "temperature": 8.391727371064583,
+    "location": [
+      35.48481985017196,
+      -154.139488980666
+    ],
+    "time": 2446.656
+  },
+  {
+    "voltageMeasured": 3.56961228207256,
+    "currentMeasured": -0.9951879327311431,
+    "currentCharge": 1,
+    "voltageCharge": 3.024,
+    "temperature": 8.417643187311825,
+    "location": [
+      61.47265720440291,
+      -40.7939677021983
+    ],
+    "time": 2459.797
+  },
+  {
+    "voltageMeasured": 3.568617068622861,
+    "currentMeasured": -0.9953233287762937,
+    "currentCharge": 1,
+    "voltageCharge": 3.022,
+    "temperature": 8.443452126354595,
+    "location": [
+      -41.205211946345194,
+      44.50114000870144
+    ],
+    "time": 2472.875
+  },
+  {
+    "voltageMeasured": 3.5675438453435993,
+    "currentMeasured": -0.9947781381285752,
+    "currentCharge": 1,
+    "voltageCharge": 3.022,
+    "temperature": 8.476325306192667,
+    "location": [
+      -34.882051407008035,
+      113.14564757925427
+    ],
+    "time": 2485.938
+  },
+  {
+    "voltageMeasured": 3.566512650570572,
+    "currentMeasured": -0.9944161071861911,
+    "currentCharge": 1,
+    "voltageCharge": 3.02,
+    "temperature": 8.492796629845422,
+    "location": [
+      4.8831196053723005,
+      -89.60487460941837
+    ],
+    "time": 2499.11
+  },
+  {
+    "voltageMeasured": 3.565596382904656,
+    "currentMeasured": -0.9942235113940424,
+    "currentCharge": 1,
+    "voltageCharge": 3.02,
+    "temperature": 8.512783316181316,
+    "location": [
+      15.334925495641897,
+      -116.93178288859532
+    ],
+    "time": 2512.235
+  },
+  {
+    "voltageMeasured": 3.564504287068038,
+    "currentMeasured": -0.9955858243142907,
+    "currentCharge": 1,
+    "voltageCharge": 3.018,
+    "temperature": 8.521589174390582,
+    "location": [
+      -33.53812884352038,
+      -17.187206560410175
+    ],
+    "time": 2525.328
+  },
+  {
+    "voltageMeasured": 3.5634754003444336,
+    "currentMeasured": -0.9946893235554726,
+    "currentCharge": 1,
+    "voltageCharge": 3.018,
+    "temperature": 8.386474798207766,
+    "location": [
+      -85.72504920354261,
+      142.15984863960682
+    ],
+    "time": 2538.453
+  },
+  {
+    "voltageMeasured": 3.5622786555168515,
+    "currentMeasured": -0.994678935721806,
+    "currentCharge": 1,
+    "voltageCharge": 3.016,
+    "temperature": 8.10978510022735,
+    "location": [
+      34.83788943890373,
+      25.620665470901173
+    ],
+    "time": 2551.563
+  },
+  {
+    "voltageMeasured": 3.5607924718680453,
+    "currentMeasured": -0.9943354568840029,
+    "currentCharge": 1,
+    "voltageCharge": 3.015,
+    "temperature": 7.926866331271257,
+    "location": [
+      -86.80061488416537,
+      -27.693830377934688
+    ],
+    "time": 2564.672
+  },
+  {
+    "voltageMeasured": 3.5592836865405264,
+    "currentMeasured": -0.995581939515197,
+    "currentCharge": 1,
+    "voltageCharge": 3.013,
+    "temperature": 7.7230313791141265,
+    "location": [
+      15.710062861899132,
+      -76.88323830061556
+    ],
+    "time": 2577.719
+  },
+  {
+    "voltageMeasured": 3.557413298793106,
+    "currentMeasured": -0.99429355934188,
+    "currentCharge": 1,
+    "voltageCharge": 3.012,
+    "temperature": 7.611477249311324,
+    "location": [
+      -37.8036850785348,
+      -33.92022831327037
+    ],
+    "time": 2590.813
+  },
+  {
+    "voltageMeasured": 3.555665005059582,
+    "currentMeasured": -0.9950370990588971,
+    "currentCharge": 1,
+    "voltageCharge": 3.01,
+    "temperature": 7.440895751789326,
+    "location": [
+      6.802932694568696,
+      -69.81783090472909
+    ],
+    "time": 2603.875
+  },
+  {
+    "voltageMeasured": 3.553695453592202,
+    "currentMeasured": -0.9950739265406496,
+    "currentCharge": 1,
+    "voltageCharge": 3.008,
+    "temperature": 7.228894507354611,
+    "location": [
+      -56.66269736744913,
+      -125.27099358634564
+    ],
+    "time": 2617.063
+  },
+  {
+    "voltageMeasured": 3.5516709298242195,
+    "currentMeasured": -0.9940357706084627,
+    "currentCharge": 1,
+    "voltageCharge": 3.006,
+    "temperature": 7.108552982453752,
+    "location": [
+      17.174239469497394,
+      91.69376129889076
+    ],
+    "time": 2630.156
+  },
+  {
+    "voltageMeasured": 3.549415616584612,
+    "currentMeasured": -0.995971221699016,
+    "currentCharge": 1,
+    "voltageCharge": 3.004,
+    "temperature": 6.991740673542078,
+    "location": [
+      45.75912083223528,
+      -152.27844386735512
+    ],
+    "time": 2643.297
+  },
+  {
+    "voltageMeasured": 3.5474512191230727,
+    "currentMeasured": -0.9953486569892899,
+    "currentCharge": 1,
+    "voltageCharge": 3.002,
+    "temperature": 6.8630307658425505,
+    "location": [
+      10.486672507144121,
+      -163.85161743711507
+    ],
+    "time": 2656.375
+  },
+  {
+    "voltageMeasured": 3.5452697780172833,
+    "currentMeasured": -0.9980512343337173,
+    "currentCharge": 1,
+    "voltageCharge": 3,
+    "temperature": 6.810625000618621,
+    "location": [
+      3.2881952369564402,
+      -39.63240958230671
+    ],
+    "time": 2669.469
+  },
+  {
+    "voltageMeasured": 3.5428925329547076,
+    "currentMeasured": -0.9972181588507624,
+    "currentCharge": 1,
+    "voltageCharge": 2.997,
+    "temperature": 6.7186806966943635,
+    "location": [
+      -43.082421236010376,
+      -46.24302174574808
+    ],
+    "time": 2682.516
+  },
+  {
+    "voltageMeasured": 3.5405729647023354,
+    "currentMeasured": -0.9957278615622397,
+    "currentCharge": 1,
+    "voltageCharge": 2.995,
+    "temperature": 6.684842135119057,
+    "location": [
+      -27.76212351163882,
+      -118.90433512104794
+    ],
+    "time": 2695.625
+  },
+  {
+    "voltageMeasured": 3.5383409868687274,
+    "currentMeasured": -0.9947639623492303,
+    "currentCharge": 1,
+    "voltageCharge": 2.993,
+    "temperature": 6.566989480150245,
+    "location": [
+      28.824152232150354,
+      34.04654967610034
+    ],
+    "time": 2708.719
+  },
+  {
+    "voltageMeasured": 3.536107816232528,
+    "currentMeasured": -0.9958489810859337,
+    "currentCharge": 1,
+    "voltageCharge": 2.991,
+    "temperature": 6.48033721102521,
+    "location": [
+      -71.83483255948858,
+      78.78481405038139
+    ],
+    "time": 2721.86
+  },
+  {
+    "voltageMeasured": 3.5335907686149874,
+    "currentMeasured": -0.9952133543719285,
+    "currentCharge": 1,
+    "voltageCharge": 2.989,
+    "temperature": 6.356726719503908,
+    "location": [
+      50.83660295772256,
+      -171.249069384813
+    ],
+    "time": 2734.953
+  },
+  {
+    "voltageMeasured": 3.5314136887730534,
+    "currentMeasured": -0.9954646392604467,
+    "currentCharge": 1,
+    "voltageCharge": 2.986,
+    "temperature": 6.277110259876935,
+    "location": [
+      -72.36186129566478,
+      120.37049353741884
+    ],
+    "time": 2748.047
+  },
+  {
+    "voltageMeasured": 3.529023985739061,
+    "currentMeasured": -0.9936486514665939,
+    "currentCharge": 1,
+    "voltageCharge": 2.983,
+    "temperature": 6.246106820563044,
+    "location": [
+      -16.058328572920715,
+      -104.39511379164009
+    ],
+    "time": 2761.219
+  },
+  {
+    "voltageMeasured": 3.5267368568115853,
+    "currentMeasured": -0.9957747066469741,
+    "currentCharge": 1,
+    "voltageCharge": 2.981,
+    "temperature": 6.391443820264051,
+    "location": [
+      -89.56674039169779,
+      -1.3875264433056316
+    ],
+    "time": 2774.328
+  },
+  {
+    "voltageMeasured": 3.5247210276671654,
+    "currentMeasured": -0.9963931743279743,
+    "currentCharge": 1,
+    "voltageCharge": 2.979,
+    "temperature": 6.55313906113403,
+    "location": [
+      -78.20565244067863,
+      -5.37840509394988
+    ],
+    "time": 2787.453
+  },
+  {
+    "voltageMeasured": 3.522720675532665,
+    "currentMeasured": -0.9946163409910019,
+    "currentCharge": 1,
+    "voltageCharge": 2.977,
+    "temperature": 6.623197895390508,
+    "location": [
+      -33.38186711232053,
+      132.95031791795958
+    ],
+    "time": 2800.5
+  },
+  {
+    "voltageMeasured": 3.52117817983667,
+    "currentMeasured": -0.9950371997010057,
+    "currentCharge": 1,
+    "voltageCharge": 2.975,
+    "temperature": 6.698947948169448,
+    "location": [
+      -67.2653457414007,
+      -177.89581781902567
+    ],
+    "time": 2813.578
+  },
+  {
+    "voltageMeasured": 3.5194927906893407,
+    "currentMeasured": -0.9944140972588877,
+    "currentCharge": 1,
+    "voltageCharge": 2.974,
+    "temperature": 6.777304818730721,
+    "location": [
+      67.32529154260646,
+      176.05329632779114
+    ],
+    "time": 2826.656
+  },
+  {
+    "voltageMeasured": 3.5181327978753525,
+    "currentMeasured": -0.9946767013012892,
+    "currentCharge": 1,
+    "voltageCharge": 2.973,
+    "temperature": 6.828531112156355,
+    "location": [
+      70.67965740422167,
+      -39.69070766065198
+    ],
+    "time": 2839.766
+  },
+  {
+    "voltageMeasured": 3.516606148816905,
+    "currentMeasured": -0.9932374600180275,
+    "currentCharge": 1,
+    "voltageCharge": 2.971,
+    "temperature": 6.866229892000222,
+    "location": [
+      83.99580942391725,
+      -82.67676178897253
+    ],
+    "time": 2852.891
+  },
+  {
+    "voltageMeasured": 3.5152393052882887,
+    "currentMeasured": -0.9952709686830201,
+    "currentCharge": 1,
+    "voltageCharge": 2.97,
+    "temperature": 6.9177181241960675,
+    "location": [
+      -41.23660400565877,
+      -111.90299659722874
+    ],
+    "time": 2866
+  },
+  {
+    "voltageMeasured": 3.5140180160644707,
+    "currentMeasured": -0.995403417134748,
+    "currentCharge": 1,
+    "voltageCharge": 2.969,
+    "temperature": 6.939549753609747,
+    "location": [
+      86.75067664156643,
+      -19.01060809968692
+    ],
+    "time": 2879.141
+  },
+  {
+    "voltageMeasured": 3.512733621117712,
+    "currentMeasured": -0.9955063739486019,
+    "currentCharge": 1,
+    "voltageCharge": 2.967,
+    "temperature": 6.983356213644738,
+    "location": [
+      -25.970953978461736,
+      155.3890705058921
+    ],
+    "time": 2892.235
+  },
+  {
+    "voltageMeasured": 3.5116032930049923,
+    "currentMeasured": -0.9951465789873,
+    "currentCharge": 1,
+    "voltageCharge": 2.966,
+    "temperature": 7.017733389342109,
+    "location": [
+      -89.85885768884202,
+      -148.13520870958445
+    ],
+    "time": 2905.422
+  },
+  {
+    "voltageMeasured": 3.5106769014115917,
+    "currentMeasured": -0.9945311149344411,
+    "currentCharge": 1,
+    "voltageCharge": 2.965,
+    "temperature": 7.063676629777511,
+    "location": [
+      -54.13167810470038,
+      -114.3517094255992
+    ],
+    "time": 2918.625
+  },
+  {
+    "voltageMeasured": 3.5094138198142018,
+    "currentMeasured": -0.995100734604972,
+    "currentCharge": 1,
+    "voltageCharge": 2.964,
+    "temperature": 7.095416941446565,
+    "location": [
+      -12.613410794138275,
+      127.75604453351315
+    ],
+    "time": 2931.766
+  },
+  {
+    "voltageMeasured": 3.508582448774273,
+    "currentMeasured": -0.9953960222412729,
+    "currentCharge": 1,
+    "voltageCharge": 2.963,
+    "temperature": 7.118356526292543,
+    "location": [
+      76.94453753040719,
+      115.48286950104938
+    ],
+    "time": 2944.844
+  },
+  {
+    "voltageMeasured": 3.507498912074538,
+    "currentMeasured": -0.9945743143227238,
+    "currentCharge": 1,
+    "voltageCharge": 2.961,
+    "temperature": 7.160872692958306,
+    "location": [
+      43.75645290706521,
+      -41.22112983990172
+    ],
+    "time": 2957.938
+  },
+  {
+    "voltageMeasured": 3.5064281400654993,
+    "currentMeasured": -0.9952086971003611,
+    "currentCharge": 1,
+    "voltageCharge": 2.961,
+    "temperature": 7.2052288597627925,
+    "location": [
+      18.957451521090974,
+      -1.419059117009141
+    ],
+    "time": 2971.016
+  },
+  {
+    "voltageMeasured": 3.505334425369491,
+    "currentMeasured": -0.9953746908846127,
+    "currentCharge": 1,
+    "voltageCharge": 2.96,
+    "temperature": 7.238210683447451,
+    "location": [
+      52.32715518574278,
+      105.64691300323898
+    ],
+    "time": 2984.156
+  },
+  {
+    "voltageMeasured": 3.50454778435222,
+    "currentMeasured": -0.9938045183757434,
+    "currentCharge": 1,
+    "voltageCharge": 2.959,
+    "temperature": 7.278152087747973,
+    "location": [
+      -13.07056712704761,
+      98.03887613016872
+    ],
+    "time": 2997.266
+  },
+  {
+    "voltageMeasured": 3.5035981499375732,
+    "currentMeasured": -0.995034083134179,
+    "currentCharge": 1,
+    "voltageCharge": 2.958,
+    "temperature": 7.325664768234707,
+    "location": [
+      49.896821672478126,
+      -112.11426833139082
+    ],
+    "time": 3010.328
+  },
+  {
+    "voltageMeasured": 3.502804920612841,
+    "currentMeasured": -0.9971200561215173,
+    "currentCharge": 1,
+    "voltageCharge": 2.957,
+    "temperature": 7.377788253397238,
+    "location": [
+      87.65806759692052,
+      148.9989485944193
+    ],
+    "time": 3023.469
+  },
+  {
+    "voltageMeasured": 3.5018787300155116,
+    "currentMeasured": -0.9948573041475083,
+    "currentCharge": 1,
+    "voltageCharge": 2.956,
+    "temperature": 7.397144034960463,
+    "location": [
+      -57.82829286931439,
+      -122.01703866016219
+    ],
+    "time": 3036.547
+  },
+  {
+    "voltageMeasured": 3.5009717821303985,
+    "currentMeasured": -0.9953914335392272,
+    "currentCharge": 1,
+    "voltageCharge": 2.955,
+    "temperature": 7.406891237096593,
+    "location": [
+      -24.012736955336223,
+      120.42477449921154
+    ],
+    "time": 3049.625
+  },
+  {
+    "voltageMeasured": 3.500140524791773,
+    "currentMeasured": -0.9951151811676435,
+    "currentCharge": 1,
+    "voltageCharge": 2.955,
+    "temperature": 7.451504088760228,
+    "location": [
+      -4.4015491010272285,
+      119.90742333666907
+    ],
+    "time": 3062.719
+  },
+  {
+    "voltageMeasured": 3.499212874266527,
+    "currentMeasured": -0.9957233177304915,
+    "currentCharge": 1,
+    "voltageCharge": 2.953,
+    "temperature": 7.488814549784118,
+    "location": [
+      19.68499406446948,
+      42.09651198160094
+    ],
+    "time": 3075.875
+  },
+  {
+    "voltageMeasured": 3.498516477412692,
+    "currentMeasured": -0.9951244973493767,
+    "currentCharge": 1,
+    "voltageCharge": 2.953,
+    "temperature": 7.541218379473689,
+    "location": [
+      50.63943682933643,
+      -135.64517681684845
+    ],
+    "time": 3088.985
+  },
+  {
+    "voltageMeasured": 3.4977376120597645,
+    "currentMeasured": -0.9962234880899085,
+    "currentCharge": 1,
+    "voltageCharge": 2.952,
+    "temperature": 7.585405703283428,
+    "location": [
+      73.64949517635384,
+      -163.1396346710988
+    ],
+    "time": 3102.156
+  },
+  {
+    "voltageMeasured": 3.4967819465700187,
+    "currentMeasured": -0.996199603375679,
+    "currentCharge": 1,
+    "voltageCharge": 2.951,
+    "temperature": 7.585648800327981,
+    "location": [
+      -55.757786152239035,
+      67.00606935044095
+    ],
+    "time": 3115.328
+  },
+  {
+    "voltageMeasured": 3.495946248401124,
+    "currentMeasured": -0.9964922271472626,
+    "currentCharge": 1,
+    "voltageCharge": 2.951,
+    "temperature": 7.647061881344153,
+    "location": [
+      -73.11013997007775,
+      64.33920349007104
+    ],
+    "time": 3128.422
+  },
+  {
+    "voltageMeasured": 3.495189490388214,
+    "currentMeasured": -0.9953127951692624,
+    "currentCharge": 1,
+    "voltageCharge": 2.949,
+    "temperature": 7.666215446975053,
+    "location": [
+      -29.86017731272004,
+      32.35213714799778
+    ],
+    "time": 3141.485
+  },
+  {
+    "voltageMeasured": 3.4945290642245936,
+    "currentMeasured": -0.9959997989127815,
+    "currentCharge": 1,
+    "voltageCharge": 2.949,
+    "temperature": 7.704642465237726,
+    "location": [
+      67.78560454372723,
+      52.627336427165176
+    ],
+    "time": 3154.594
+  },
+  {
+    "voltageMeasured": 3.4936696980341746,
+    "currentMeasured": -0.9952256862684167,
+    "currentCharge": 1,
+    "voltageCharge": 2.948,
+    "temperature": 7.761006683152262,
+    "location": [
+      -49.875923721296374,
+      20.914495731445726
+    ],
+    "time": 3167.703
+  },
+  {
+    "voltageMeasured": 3.4930367673667986,
+    "currentMeasured": -1.0011013482434699,
+    "currentCharge": 1,
+    "voltageCharge": 2.947,
+    "temperature": 7.792101019669969,
+    "location": [
+      2.921981394010686,
+      49.390096536765355
+    ],
+    "time": 3180.844
+  },
+  {
+    "voltageMeasured": 3.4923282264992834,
+    "currentMeasured": -0.9947802541248976,
+    "currentCharge": 1,
+    "voltageCharge": 2.947,
+    "temperature": 7.859331457327775,
+    "location": [
+      89.90710646021122,
+      104.52798506725571
+    ],
+    "time": 3193.969
+  },
+  {
+    "voltageMeasured": 3.491563543275591,
+    "currentMeasured": -0.9955258824609446,
+    "currentCharge": 1,
+    "voltageCharge": 2.946,
+    "temperature": 7.876608840371361,
+    "location": [
+      70.66916549017606,
+      93.78830581054956
+    ],
+    "time": 3207.016
+  },
+  {
+    "voltageMeasured": 3.490625992098114,
+    "currentMeasured": -0.9951252811642142,
+    "currentCharge": 1,
+    "voltageCharge": 2.945,
+    "temperature": 7.907580870328807,
+    "location": [
+      -69.69442828221928,
+      112.46815977635993
+    ],
+    "time": 3220.11
+  },
+  {
+    "voltageMeasured": 3.489994490717841,
+    "currentMeasured": -0.9956497823154681,
+    "currentCharge": 1,
+    "voltageCharge": 2.945,
+    "temperature": 7.939647659362787,
+    "location": [
+      35.387593319570726,
+      -64.95155067293574
+    ],
+    "time": 3233.188
+  },
+  {
+    "voltageMeasured": 3.489338763592346,
+    "currentMeasured": -0.9959470240285405,
+    "currentCharge": 1,
+    "voltageCharge": 2.944,
+    "temperature": 7.999870648504962,
+    "location": [
+      -13.923184751111094,
+      -105.12705656005573
+    ],
+    "time": 3246.266
+  },
+  {
+    "voltageMeasured": 3.488657802959221,
+    "currentMeasured": -0.9951839740857757,
+    "currentCharge": 1,
+    "voltageCharge": 2.943,
+    "temperature": 8.027799387921185,
+    "location": [
+      14.084897536402934,
+      -132.2606061599425
+    ],
+    "time": 3259.344
+  },
+  {
+    "voltageMeasured": 3.48789001240067,
+    "currentMeasured": -0.9940946643097319,
+    "currentCharge": 1,
+    "voltageCharge": 2.943,
+    "temperature": 8.02804767165312,
+    "location": [
+      -30.88611139754805,
+      -136.9395409625223
+    ],
+    "time": 3272.485
+  },
+  {
+    "voltageMeasured": 3.4873508254141408,
+    "currentMeasured": -0.9958942056563285,
+    "currentCharge": 1,
+    "voltageCharge": 2.942,
+    "temperature": 8.046394613461613,
+    "location": [
+      82.43007121101277,
+      -138.02888075961366
+    ],
+    "time": 3285.563
+  },
+  {
+    "voltageMeasured": 3.486454599160414,
+    "currentMeasured": -0.9970391322666093,
+    "currentCharge": 1,
+    "voltageCharge": 2.941,
+    "temperature": 8.094251947834934,
+    "location": [
+      53.02933513925291,
+      -31.304007926559763
+    ],
+    "time": 3298.735
+  },
+  {
+    "voltageMeasured": 3.485661118821138,
+    "currentMeasured": -0.9950915145677802,
+    "currentCharge": 1,
+    "voltageCharge": 2.941,
+    "temperature": 8.123025498422633,
+    "location": [
+      -8.296569454862933,
+      164.55467784518663
+    ],
+    "time": 3311.828
+  },
+  {
+    "voltageMeasured": 3.4850219534636984,
+    "currentMeasured": -0.9967539111586705,
+    "currentCharge": 1,
+    "voltageCharge": 2.94,
+    "temperature": 8.14662856445517,
+    "location": [
+      6.07966741696103,
+      -122.6513752871336
+    ],
+    "time": 3324.969
+  },
+  {
+    "voltageMeasured": 3.4844773236979867,
+    "currentMeasured": -0.9955133551927806,
+    "currentCharge": 1,
+    "voltageCharge": 2.939,
+    "temperature": 8.188197988293634,
+    "location": [
+      1.268368305956045,
+      -156.38009295220579
+    ],
+    "time": 3338.125
+  },
+  {
+    "voltageMeasured": 3.4835619373669546,
+    "currentMeasured": -0.9938124498666757,
+    "currentCharge": 1,
+    "voltageCharge": 2.938,
+    "temperature": 8.202600777416047,
+    "location": [
+      -28.338809047405107,
+      -20.765223944127058
+    ],
+    "time": 3351.266
+  },
+  {
+    "voltageMeasured": 3.482921879953037,
+    "currentMeasured": -0.9949867696691074,
+    "currentCharge": 1,
+    "voltageCharge": 2.937,
+    "temperature": 8.238707979741942,
+    "location": [
+      -61.094926481384334,
+      46.63610341956834
+    ],
+    "time": 3364.453
+  },
+  {
+    "voltageMeasured": 3.4823155874943046,
+    "currentMeasured": -0.9957524008694255,
+    "currentCharge": 1,
+    "voltageCharge": 2.937,
+    "temperature": 8.257091977863002,
+    "location": [
+      -10.397637475914024,
+      -123.25372825466363
+    ],
+    "time": 3377.625
+  },
+  {
+    "voltageMeasured": 3.481453243996021,
+    "currentMeasured": -0.9949588691136327,
+    "currentCharge": 1,
+    "voltageCharge": 2.936,
+    "temperature": 8.298195132808544,
+    "location": [
+      -33.902562150936,
+      -9.015822146763526
+    ],
+    "time": 3390.797
+  },
+  {
+    "voltageMeasured": 3.4808453458110025,
+    "currentMeasured": -0.995152141206821,
+    "currentCharge": 1,
+    "voltageCharge": 2.935,
+    "temperature": 8.345030761827834,
+    "location": [
+      -5.4698759167474265,
+      -30.8794174943732
+    ],
+    "time": 3403.938
+  },
+  {
+    "voltageMeasured": 3.4801043082920016,
+    "currentMeasured": -0.9962733741794066,
+    "currentCharge": 1,
+    "voltageCharge": 2.935,
+    "temperature": 8.355976754650651,
+    "location": [
+      -75.44762080045427,
+      137.26986215129625
+    ],
+    "time": 3417.078
+  },
+  {
+    "voltageMeasured": 3.4793074004689593,
+    "currentMeasured": -0.995919518766945,
+    "currentCharge": 1,
+    "voltageCharge": 2.934,
+    "temperature": 8.375761094678865,
+    "location": [
+      -67.39035489675022,
+      -90.21736648913263
+    ],
+    "time": 3430.219
+  },
+  {
+    "voltageMeasured": 3.478656756818986,
+    "currentMeasured": -0.9948789988064665,
+    "currentCharge": 1,
+    "voltageCharge": 2.933,
+    "temperature": 8.406159206576701,
+    "location": [
+      -82.84508760643635,
+      -108.55582116003515
+    ],
+    "time": 3443.422
+  },
+  {
+    "voltageMeasured": 3.477944507632085,
+    "currentMeasured": -0.9955891182209999,
+    "currentCharge": 1,
+    "voltageCharge": 2.933,
+    "temperature": 8.42928353979235,
+    "location": [
+      -67.73085980151157,
+      -57.07820276819518
+    ],
+    "time": 3456.594
+  },
+  {
+    "voltageMeasured": 3.4772719953898124,
+    "currentMeasured": -0.9968268192914872,
+    "currentCharge": 1,
+    "voltageCharge": 2.931,
+    "temperature": 8.457562396402233,
+    "location": [
+      -33.86932552059182,
+      -134.08683789954614
+    ],
+    "time": 3469.719
+  },
+  {
+    "voltageMeasured": 3.476484234837369,
+    "currentMeasured": -0.9942415430268682,
+    "currentCharge": 1,
+    "voltageCharge": 2.931,
+    "temperature": 8.483589568215642,
+    "location": [
+      24.117303408598445,
+      -146.0726049331477
+    ],
+    "time": 3482.828
+  },
+  {
+    "voltageMeasured": 3.475748716014138,
+    "currentMeasured": -0.9967222579287219,
+    "currentCharge": 1,
+    "voltageCharge": 2.93,
+    "temperature": 8.537186792834612,
+    "location": [
+      65.58868795909004,
+      110.69043358465382
+    ],
+    "time": 3495.922
+  },
+  {
+    "voltageMeasured": 3.4750405382214278,
+    "currentMeasured": -0.9955550435666333,
+    "currentCharge": 1,
+    "voltageCharge": 2.929,
+    "temperature": 8.544689300272355,
+    "location": [
+      -19.501645065373097,
+      156.5370342662668
+    ],
+    "time": 3509
+  },
+  {
+    "voltageMeasured": 3.474287621471171,
+    "currentMeasured": -0.9934084773318449,
+    "currentCharge": 1,
+    "voltageCharge": 2.929,
+    "temperature": 8.569542388002116,
+    "location": [
+      82.09822295535025,
+      -167.6295200343456
+    ],
+    "time": 3522.203
+  },
+  {
+    "voltageMeasured": 3.4734669648867538,
+    "currentMeasured": -0.9945800040332816,
+    "currentCharge": 1,
+    "voltageCharge": 2.928,
+    "temperature": 8.607966673597879,
+    "location": [
+      18.743628521017484,
+      66.71461652341165
+    ],
+    "time": 3535.344
+  },
+  {
+    "voltageMeasured": 3.4727372610211553,
+    "currentMeasured": -0.9951211002283649,
+    "currentCharge": 1,
+    "voltageCharge": 2.927,
+    "temperature": 8.609446409075803,
+    "location": [
+      24.873789069280875,
+      -26.63504879788684
+    ],
+    "time": 3548.422
+  },
+  {
+    "voltageMeasured": 3.47201976831521,
+    "currentMeasured": -0.9956299094574806,
+    "currentCharge": 1,
+    "voltageCharge": 2.927,
+    "temperature": 8.643098730143205,
+    "location": [
+      -16.888890357025147,
+      -104.58579909048444
+    ],
+    "time": 3561.531
+  },
+  {
+    "voltageMeasured": 3.4711978181913232,
+    "currentMeasured": -0.9957611420902497,
+    "currentCharge": 1,
+    "voltageCharge": 2.926,
+    "temperature": 8.674582825880155,
+    "location": [
+      26.877836207861336,
+      109.55576572523142
+    ],
+    "time": 3574.625
+  },
+  {
+    "voltageMeasured": 3.47047078317791,
+    "currentMeasured": -0.9933020517139497,
+    "currentCharge": 1,
+    "voltageCharge": 2.925,
+    "temperature": 8.725820483780293,
+    "location": [
+      -86.65418170670239,
+      150.16714697689002
+    ],
+    "time": 3587.735
+  },
+  {
+    "voltageMeasured": 3.4696718442479586,
+    "currentMeasured": -0.9953135916284449,
+    "currentCharge": 1,
+    "voltageCharge": 2.924,
+    "temperature": 8.727678104689083,
+    "location": [
+      -73.77203522161227,
+      -78.53895474526561
+    ],
+    "time": 3600.828
+  },
+  {
+    "voltageMeasured": 3.469000094167255,
+    "currentMeasured": -0.994801062948701,
+    "currentCharge": 1,
+    "voltageCharge": 2.923,
+    "temperature": 8.779329061612671,
+    "location": [
+      -82.28922125012026,
+      -155.65145046342244
+    ],
+    "time": 3613.922
+  },
+  {
+    "voltageMeasured": 3.4681816821164557,
+    "currentMeasured": -0.9952597176348683,
+    "currentCharge": 1,
+    "voltageCharge": 2.923,
+    "temperature": 8.807525998504737,
+    "location": [
+      -87.25506817671783,
+      164.92997243967181
+    ],
+    "time": 3627.063
+  },
+  {
+    "voltageMeasured": 3.4673812991586956,
+    "currentMeasured": -0.9959556254500078,
+    "currentCharge": 1,
+    "voltageCharge": 2.922,
+    "temperature": 8.838229650077436,
+    "location": [
+      29.512782935535057,
+      124.97302368123889
+    ],
+    "time": 3640.172
+  },
+  {
+    "voltageMeasured": 3.466777146732966,
+    "currentMeasured": -0.9958085328340124,
+    "currentCharge": 1,
+    "voltageCharge": 2.921,
+    "temperature": 8.859085177584964,
+    "location": [
+      54.48014407645951,
+      20.755817715659816
+    ],
+    "time": 3653.281
+  },
+  {
+    "voltageMeasured": 3.4660081456818514,
+    "currentMeasured": -0.9943153152950789,
+    "currentCharge": 1,
+    "voltageCharge": 2.921,
+    "temperature": 8.884051980908765,
+    "location": [
+      75.11330355641175,
+      33.3060816246857
+    ],
+    "time": 3666.391
+  },
+  {
+    "voltageMeasured": 3.4651119040439964,
+    "currentMeasured": -0.9944384236528825,
+    "currentCharge": 1,
+    "voltageCharge": 2.92,
+    "temperature": 8.90925080944597,
+    "location": [
+      86.2171525410952,
+      16.636987292241514
+    ],
+    "time": 3679.516
+  },
+  {
+    "voltageMeasured": 3.464497433780131,
+    "currentMeasured": -0.9955435536453788,
+    "currentCharge": 1,
+    "voltageCharge": 2.919,
+    "temperature": 8.941985128221027,
+    "location": [
+      -87.85377259825714,
+      86.72715606425766
+    ],
+    "time": 3692.656
+  },
+  {
+    "voltageMeasured": 3.4635684232925383,
+    "currentMeasured": -0.9949564530588838,
+    "currentCharge": 1,
+    "voltageCharge": 2.918,
+    "temperature": 8.940032956335966,
+    "location": [
+      15.50520999409153,
+      -92.44831671962945
+    ],
+    "time": 3705.86
+  },
+  {
+    "voltageMeasured": 3.462814187423905,
+    "currentMeasured": -0.9963352633920955,
+    "currentCharge": 1,
+    "voltageCharge": 2.917,
+    "temperature": 8.98710412044508,
+    "location": [
+      -52.541607568673975,
+      -124.04061519923154
+    ],
+    "time": 3718.985
+  },
+  {
+    "voltageMeasured": 3.46214272530203,
+    "currentMeasured": -0.994170308906829,
+    "currentCharge": 1,
+    "voltageCharge": 2.917,
+    "temperature": 8.998776016877077,
+    "location": [
+      52.42772006461172,
+      72.59475389312172
+    ],
+    "time": 3732.094
+  },
+  {
+    "voltageMeasured": 3.4612679407647153,
+    "currentMeasured": -0.9971262252583597,
+    "currentCharge": 1,
+    "voltageCharge": 2.916,
+    "temperature": 9.027878156006246,
+    "location": [
+      57.10061768128617,
+      130.99926653253118
+    ],
+    "time": 3745.219
+  },
+  {
+    "voltageMeasured": 3.460682395050646,
+    "currentMeasured": -0.9921549254728758,
+    "currentCharge": 1,
+    "voltageCharge": 2.915,
+    "temperature": 9.0545632852415,
+    "location": [
+      7.901378866437426,
+      96.50397376317488
+    ],
+    "time": 3758.344
+  },
+  {
+    "voltageMeasured": 3.459682485501857,
+    "currentMeasured": -0.9946179154419856,
+    "currentCharge": 1,
+    "voltageCharge": 2.914,
+    "temperature": 9.096776355418,
+    "location": [
+      -8.290552860536948,
+      170.69918441931634
+    ],
+    "time": 3771.516
+  },
+  {
+    "voltageMeasured": 3.458877155773463,
+    "currentMeasured": -0.9950517756907041,
+    "currentCharge": 1,
+    "voltageCharge": 2.913,
+    "temperature": 9.097045598307535,
+    "location": [
+      20.573123849479316,
+      -5.4734618575440095
+    ],
+    "time": 3784.61
+  },
+  {
+    "voltageMeasured": 3.4580147374837664,
+    "currentMeasured": -0.9957831723344504,
+    "currentCharge": 1,
+    "voltageCharge": 2.913,
+    "temperature": 9.133877133719531,
+    "location": [
+      58.66472188312383,
+      150.5224485769957
+    ],
+    "time": 3797.766
+  },
+  {
+    "voltageMeasured": 3.4573000229394704,
+    "currentMeasured": -0.9944112524134223,
+    "currentCharge": 1,
+    "voltageCharge": 2.912,
+    "temperature": 9.139833178424317,
+    "location": [
+      -35.58912726900839,
+      -24.97008779997165
+    ],
+    "time": 3810.891
+  },
+  {
+    "voltageMeasured": 3.4566167493283446,
+    "currentMeasured": -0.9951537841886956,
+    "currentCharge": 1,
+    "voltageCharge": 2.911,
+    "temperature": 9.039506759825283,
+    "location": [
+      16.578877820013048,
+      13.163914543826024
+    ],
+    "time": 3824
+  },
+  {
+    "voltageMeasured": 3.4555095008924526,
+    "currentMeasured": -0.9951035040533993,
+    "currentCharge": 1,
+    "voltageCharge": 2.91,
+    "temperature": 8.74507105433809,
+    "location": [
+      34.65250294218238,
+      -128.07234278356572
+    ],
+    "time": 3837.11
+  },
+  {
+    "voltageMeasured": 3.4539955948600243,
+    "currentMeasured": -0.9946697436147266,
+    "currentCharge": 1,
+    "voltageCharge": 2.909,
+    "temperature": 8.54463806722767,
+    "location": [
+      38.005595811890174,
+      155.9438245774307
+    ],
+    "time": 3850.156
+  },
+  {
+    "voltageMeasured": 3.4525420711144035,
+    "currentMeasured": -0.9952782255756405,
+    "currentCharge": 1,
+    "voltageCharge": 2.907,
+    "temperature": 8.408139516552344,
+    "location": [
+      -2.2845524040121035,
+      124.55107033933768
+    ],
+    "time": 3863.313
+  },
+  {
+    "voltageMeasured": 3.4509984052771165,
+    "currentMeasured": -0.9949266342912684,
+    "currentCharge": 1,
+    "voltageCharge": 2.906,
+    "temperature": 8.303959879583791,
+    "location": [
+      -47.354001098360435,
+      49.51659439226063
+    ],
+    "time": 3876.406
+  },
+  {
+    "voltageMeasured": 3.4489511914082986,
+    "currentMeasured": -0.9948720603513895,
+    "currentCharge": 1,
+    "voltageCharge": 2.904,
+    "temperature": 8.180981447004251,
+    "location": [
+      36.150258972954816,
+      173.2080854305653
+    ],
+    "time": 3889.594
+  },
+  {
+    "voltageMeasured": 3.4470970180059584,
+    "currentMeasured": -0.9972704365630486,
+    "currentCharge": 1,
+    "voltageCharge": 2.902,
+    "temperature": 7.992354128160602,
+    "location": [
+      -89.47005379391513,
+      90.60309931151858
+    ],
+    "time": 3902.672
+  },
+  {
+    "voltageMeasured": 3.4450427756993656,
+    "currentMeasured": -0.9949377010765345,
+    "currentCharge": 1,
+    "voltageCharge": 2.9,
+    "temperature": 7.873294089385614,
+    "location": [
+      57.76879704276206,
+      45.56170588819245
+    ],
+    "time": 3915.766
+  },
+  {
+    "voltageMeasured": 3.4427543858853493,
+    "currentMeasured": -0.9958608571709217,
+    "currentCharge": 1,
+    "voltageCharge": 2.897,
+    "temperature": 7.759185474457429,
+    "location": [
+      47.33188444848713,
+      55.086855384634845
+    ],
+    "time": 3928.891
+  },
+  {
+    "voltageMeasured": 3.4403751420902386,
+    "currentMeasured": -0.9956176332124341,
+    "currentCharge": 1,
+    "voltageCharge": 2.895,
+    "temperature": 7.655513641846865,
+    "location": [
+      -60.803268572002565,
+      -56.827775777491155
+    ],
+    "time": 3941.985
+  },
+  {
+    "voltageMeasured": 3.4380614221175554,
+    "currentMeasured": -0.9949349855821317,
+    "currentCharge": 1,
+    "voltageCharge": 2.893,
+    "temperature": 7.566494687076014,
+    "location": [
+      -53.48648132791057,
+      105.04769394465774
+    ],
+    "time": 3955.047
+  },
+  {
+    "voltageMeasured": 3.4356726107968094,
+    "currentMeasured": -0.9941286940622154,
+    "currentCharge": 1,
+    "voltageCharge": 2.891,
+    "temperature": 7.432633387664149,
+    "location": [
+      87.29961679450864,
+      -99.58664153933115
+    ],
+    "time": 3968.141
+  },
+  {
+    "voltageMeasured": 3.4330946414015693,
+    "currentMeasured": -0.9970288451542202,
+    "currentCharge": 1,
+    "voltageCharge": 2.888,
+    "temperature": 7.3111645780180945,
+    "location": [
+      47.13686278498713,
+      -123.71636205875716
+    ],
+    "time": 3981.297
+  },
+  {
+    "voltageMeasured": 3.430388257696568,
+    "currentMeasured": -0.9966386533000465,
+    "currentCharge": 1,
+    "voltageCharge": 2.885,
+    "temperature": 7.2258469459603365,
+    "location": [
+      10.44302840284675,
+      104.48420437216578
+    ],
+    "time": 3994.406
+  },
+  {
+    "voltageMeasured": 3.427816729775609,
+    "currentMeasured": -0.9947114103074626,
+    "currentCharge": 1,
+    "voltageCharge": 2.883,
+    "temperature": 7.142842830506782,
+    "location": [
+      -27.935612170141894,
+      -122.25308142829917
+    ],
+    "time": 4007.563
+  },
+  {
+    "voltageMeasured": 3.425110724059222,
+    "currentMeasured": -0.9943746741408016,
+    "currentCharge": 1,
+    "voltageCharge": 2.88,
+    "temperature": 7.072860098035313,
+    "location": [
+      -87.17380017194145,
+      -50.541381948427386
+    ],
+    "time": 4020.766
+  },
+  {
+    "voltageMeasured": 3.4223248761751544,
+    "currentMeasured": -0.9945615497829295,
+    "currentCharge": 1,
+    "voltageCharge": 2.878,
+    "temperature": 7.177157616127626,
+    "location": [
+      78.38242399505802,
+      166.03149623661307
+    ],
+    "time": 4033.875
+  },
+  {
+    "voltageMeasured": 3.42006992488101,
+    "currentMeasured": -0.9961112173483228,
+    "currentCharge": 1,
+    "voltageCharge": 2.875,
+    "temperature": 7.322216432957061,
+    "location": [
+      -72.79723396525347,
+      -142.87986002617322
+    ],
+    "time": 4046.985
+  },
+  {
+    "voltageMeasured": 3.41772003959307,
+    "currentMeasured": -0.9942957081753299,
+    "currentCharge": 1,
+    "voltageCharge": 2.873,
+    "temperature": 7.409888208191658,
+    "location": [
+      -15.38825354959333,
+      178.12543879063753
+    ],
+    "time": 4060.11
+  },
+  {
+    "voltageMeasured": 3.415780176838776,
+    "currentMeasured": -0.9948198662579314,
+    "currentCharge": 1,
+    "voltageCharge": 2.871,
+    "temperature": 7.513100609483744,
+    "location": [
+      13.605430790907263,
+      129.54651954215365
+    ],
+    "time": 4073.266
+  },
+  {
+    "voltageMeasured": 3.413945844738231,
+    "currentMeasured": -0.9959187350134144,
+    "currentCharge": 1,
+    "voltageCharge": 2.869,
+    "temperature": 7.557387058760523,
+    "location": [
+      -61.28007735538124,
+      -66.44773110317749
+    ],
+    "time": 4086.328
+  },
+  {
+    "voltageMeasured": 3.4121715512764936,
+    "currentMeasured": -0.9948368308935783,
+    "currentCharge": 1,
+    "voltageCharge": 2.867,
+    "temperature": 7.611625277517814,
+    "location": [
+      -79.10580113631006,
+      -26.842337615456387
+    ],
+    "time": 4099.422
+  },
+  {
+    "voltageMeasured": 3.4103715866795006,
+    "currentMeasured": -0.9961578201869448,
+    "currentCharge": 1,
+    "voltageCharge": 2.865,
+    "temperature": 7.68289253903732,
+    "location": [
+      -16.86012886318487,
+      85.90745228885584
+    ],
+    "time": 4112.61
+  },
+  {
+    "voltageMeasured": 3.4088215211057356,
+    "currentMeasured": -0.995137966154431,
+    "currentCharge": 1,
+    "voltageCharge": 2.863,
+    "temperature": 7.750260297040794,
+    "location": [
+      89.05904182753574,
+      -79.96579092883535
+    ],
+    "time": 4125.703
+  },
+  {
+    "voltageMeasured": 3.407045141687982,
+    "currentMeasured": -0.994605702164411,
+    "currentCharge": 1,
+    "voltageCharge": 2.862,
+    "temperature": 7.7839574883333595,
+    "location": [
+      62.69179438920398,
+      -19.446018689480667
+    ],
+    "time": 4138.891
+  },
+  {
+    "voltageMeasured": 3.405573829801681,
+    "currentMeasured": -0.9955864137995052,
+    "currentCharge": 1,
+    "voltageCharge": 2.86,
+    "temperature": 7.808956358751785,
+    "location": [
+      -69.27957674192368,
+      -20.8166834445245
+    ],
+    "time": 4151.938
+  },
+  {
+    "voltageMeasured": 3.4039632453747815,
+    "currentMeasured": -0.9950436407226186,
+    "currentCharge": 1,
+    "voltageCharge": 2.859,
+    "temperature": 7.854757194333598,
+    "location": [
+      15.71853826367392,
+      9.876732735208378
+    ],
+    "time": 4165.078
+  },
+  {
+    "voltageMeasured": 3.4026995297336065,
+    "currentMeasured": -0.9951694939555099,
+    "currentCharge": 1,
+    "voltageCharge": 2.857,
+    "temperature": 7.9045380434053385,
+    "location": [
+      -38.973463052327645,
+      2.8734098858919026
+    ],
+    "time": 4178.219
+  },
+  {
+    "voltageMeasured": 3.4012288499984384,
+    "currentMeasured": -0.9940472016044886,
+    "currentCharge": 1,
+    "voltageCharge": 2.856,
+    "temperature": 7.903723659292115,
+    "location": [
+      -21.50769699887323,
+      15.297535464255873
+    ],
+    "time": 4191.344
+  },
+  {
+    "voltageMeasured": 3.399836975056,
+    "currentMeasured": -0.9944612215870641,
+    "currentCharge": 1,
+    "voltageCharge": 2.855,
+    "temperature": 7.946102256915054,
+    "location": [
+      -53.77159930251504,
+      107.4210315421347
+    ],
+    "time": 4204.453
+  },
+  {
+    "voltageMeasured": 3.3986484283000316,
+    "currentMeasured": -0.9978211492915544,
+    "currentCharge": 1,
+    "voltageCharge": 2.853,
+    "temperature": 7.990589077759871,
+    "location": [
+      64.13696359294411,
+      -5.103732285040451
+    ],
+    "time": 4217.531
+  },
+  {
+    "voltageMeasured": 3.397529930396105,
+    "currentMeasured": -0.9949995612020253,
+    "currentCharge": 1,
+    "voltageCharge": 2.852,
+    "temperature": 8.016247909291797,
+    "location": [
+      -14.92797796510105,
+      132.81259567084015
+    ],
+    "time": 4230.641
+  },
+  {
+    "voltageMeasured": 3.3962164086861817,
+    "currentMeasured": -0.9987879257873639,
+    "currentCharge": 1,
+    "voltageCharge": 2.851,
+    "temperature": 8.022351385007191,
+    "location": [
+      -27.101041415601877,
+      -51.76852826966086
+    ],
+    "time": 4243.75
+  },
+  {
+    "voltageMeasured": 3.394770379004634,
+    "currentMeasured": -0.9965412768039087,
+    "currentCharge": 1,
+    "voltageCharge": 2.849,
+    "temperature": 8.093577153400561,
+    "location": [
+      -15.040016928716994,
+      107.83587407371522
+    ],
+    "time": 4256.828
+  },
+  {
+    "voltageMeasured": 3.393724948549766,
+    "currentMeasured": -0.9946546941981701,
+    "currentCharge": 1,
+    "voltageCharge": 2.848,
+    "temperature": 8.13686690649396,
+    "location": [
+      53.67783484566294,
+      120.61262367607668
+    ],
+    "time": 4269.875
+  },
+  {
+    "voltageMeasured": 3.3922745235618095,
+    "currentMeasured": -0.9949697463826491,
+    "currentCharge": 1,
+    "voltageCharge": 2.847,
+    "temperature": 8.147889716331285,
+    "location": [
+      -67.20134725796763,
+      43.789118507992356
+    ],
+    "time": 4283.047
+  },
+  {
+    "voltageMeasured": 3.39111672593359,
+    "currentMeasured": -0.9958940142469688,
+    "currentCharge": 1,
+    "voltageCharge": 2.845,
+    "temperature": 8.2139567667803,
+    "location": [
+      69.55631802567189,
+      97.16809510422303
+    ],
+    "time": 4296.141
+  },
+  {
+    "voltageMeasured": 3.3899532946402653,
+    "currentMeasured": -0.9937800173097777,
+    "currentCharge": 1,
+    "voltageCharge": 2.845,
+    "temperature": 8.248131435048279,
+    "location": [
+      32.464568250468574,
+      -98.25668406307871
+    ],
+    "time": 4309.235
+  },
+  {
+    "voltageMeasured": 3.3883933066016403,
+    "currentMeasured": -0.9950807341557842,
+    "currentCharge": 1,
+    "voltageCharge": 2.843,
+    "temperature": 8.287914373034114,
+    "location": [
+      3.321434466729201,
+      -116.55015379644766
+    ],
+    "time": 4322.36
+  },
+  {
+    "voltageMeasured": 3.3875257672228245,
+    "currentMeasured": -0.9945065684680051,
+    "currentCharge": 1,
+    "voltageCharge": 2.842,
+    "temperature": 8.32615772928764,
+    "location": [
+      -65.5902555249942,
+      -80.19593440271444
+    ],
+    "time": 4335.485
+  },
+  {
+    "voltageMeasured": 3.386219477067292,
+    "currentMeasured": -0.9944556038003327,
+    "currentCharge": 1,
+    "voltageCharge": 2.841,
+    "temperature": 8.351342818434334,
+    "location": [
+      -32.00102351784656,
+      42.16679493389094
+    ],
+    "time": 4348.625
+  },
+  {
+    "voltageMeasured": 3.384998748354783,
+    "currentMeasured": -0.9961549392679606,
+    "currentCharge": 1,
+    "voltageCharge": 2.84,
+    "temperature": 8.384870053338256,
+    "location": [
+      -53.38625945020586,
+      -81.88059185748962
+    ],
+    "time": 4361.86
+  },
+  {
+    "voltageMeasured": 3.3836187641904876,
+    "currentMeasured": -0.9972176873678247,
+    "currentCharge": 1,
+    "voltageCharge": 2.839,
+    "temperature": 8.42135802719239,
+    "location": [
+      41.32528338259209,
+      -28.466838694897376
+    ],
+    "time": 4375.172
+  },
+  {
+    "voltageMeasured": 3.3824072513729484,
+    "currentMeasured": -0.996009113009009,
+    "currentCharge": 1,
+    "voltageCharge": 2.837,
+    "temperature": 8.463512842030767,
+    "location": [
+      3.1240081896784204,
+      -144.4454542038767
+    ],
+    "time": 4388.438
+  },
+  {
+    "voltageMeasured": 3.381262884828034,
+    "currentMeasured": -0.9950340782008967,
+    "currentCharge": 1,
+    "voltageCharge": 2.836,
+    "temperature": 8.502799651273532,
+    "location": [
+      -31.40013156577023,
+      45.20573251044837
+    ],
+    "time": 4401.75
+  },
+  {
+    "voltageMeasured": 3.3800523225543575,
+    "currentMeasured": -0.9959254221450267,
+    "currentCharge": 1,
+    "voltageCharge": 2.835,
+    "temperature": 8.52179890114726,
+    "location": [
+      -21.79087603501064,
+      -81.32172227922952
+    ],
+    "time": 4414.985
+  },
+  {
+    "voltageMeasured": 3.3788469375317316,
+    "currentMeasured": -0.9948096878968176,
+    "currentCharge": 1,
+    "voltageCharge": 2.834,
+    "temperature": 8.591148382285652,
+    "location": [
+      14.743603047051153,
+      -5.288299808057616
+    ],
+    "time": 4428.266
+  },
+  {
+    "voltageMeasured": 3.3775982779152276,
+    "currentMeasured": -0.9950983034676988,
+    "currentCharge": 1,
+    "voltageCharge": 2.833,
+    "temperature": 8.617344274351431,
+    "location": [
+      -64.0966029739811,
+      118.11480946310866
+    ],
+    "time": 4441.5
+  },
+  {
+    "voltageMeasured": 3.376300113346357,
+    "currentMeasured": -0.9952160502170263,
+    "currentCharge": 1,
+    "voltageCharge": 2.831,
+    "temperature": 8.657147654183998,
+    "location": [
+      45.5924510206778,
+      148.96881492828084
+    ],
+    "time": 4454.703
+  },
+  {
+    "voltageMeasured": 3.3750639655760013,
+    "currentMeasured": -0.9930276491075285,
+    "currentCharge": 1,
+    "voltageCharge": 2.83,
+    "temperature": 8.704050766720341,
+    "location": [
+      -83.86104302866482,
+      21.546139089030532
+    ],
+    "time": 4468.016
+  },
+  {
+    "voltageMeasured": 3.373951183523049,
+    "currentMeasured": -0.9958946436145326,
+    "currentCharge": 1,
+    "voltageCharge": 2.829,
+    "temperature": 8.7519101511431,
+    "location": [
+      62.23526085474808,
+      71.33272202103112
+    ],
+    "time": 4481.25
+  },
+  {
+    "voltageMeasured": 3.3726802546067054,
+    "currentMeasured": -0.9967438821993628,
+    "currentCharge": 1,
+    "voltageCharge": 2.827,
+    "temperature": 8.776369788037487,
+    "location": [
+      30.559002865969347,
+      -110.59751307094038
+    ],
+    "time": 4494.516
+  },
+  {
+    "voltageMeasured": 3.3713763263024044,
+    "currentMeasured": -0.9950125116519613,
+    "currentCharge": 1,
+    "voltageCharge": 2.826,
+    "temperature": 8.796939623329326,
+    "location": [
+      -58.777290799919996,
+      -164.49176415679304
+    ],
+    "time": 4507.719
+  },
+  {
+    "voltageMeasured": 3.3700680129198,
+    "currentMeasured": -0.9966504641168176,
+    "currentCharge": 1,
+    "voltageCharge": 2.825,
+    "temperature": 8.862095970676217,
+    "location": [
+      -85.01791205148518,
+      145.83856718424647
+    ],
+    "time": 4520.938
+  },
+  {
+    "voltageMeasured": 3.3689147528335606,
+    "currentMeasured": -0.9948696205119707,
+    "currentCharge": 1,
+    "voltageCharge": 2.823,
+    "temperature": 8.878615557856417,
+    "location": [
+      47.43143620449777,
+      144.05044958335515
+    ],
+    "time": 4534.219
+  },
+  {
+    "voltageMeasured": 3.367606248720394,
+    "currentMeasured": -0.9960232979601094,
+    "currentCharge": 1,
+    "voltageCharge": 2.822,
+    "temperature": 8.916783629748027,
+    "location": [
+      85.4885858395339,
+      -60.61529330694479
+    ],
+    "time": 4547.578
+  },
+  {
+    "voltageMeasured": 3.3663434406989006,
+    "currentMeasured": -0.9972919767133388,
+    "currentCharge": 1,
+    "voltageCharge": 2.821,
+    "temperature": 8.93808488599522,
+    "location": [
+      57.868283923290164,
+      -90.95732432277651
+    ],
+    "time": 4560.797
+  },
+  {
+    "voltageMeasured": 3.3648625929538123,
+    "currentMeasured": -0.9953224736253483,
+    "currentCharge": 1,
+    "voltageCharge": 2.82,
+    "temperature": 8.969858274681927,
+    "location": [
+      87.13965131456266,
+      -48.127644559618176
+    ],
+    "time": 4574
+  },
+  {
+    "voltageMeasured": 3.3634073849939106,
+    "currentMeasured": -0.9956900319747589,
+    "currentCharge": 1,
+    "voltageCharge": 2.819,
+    "temperature": 8.992156576921106,
+    "location": [
+      27.881777417195053,
+      107.1132173950017
+    ],
+    "time": 4587.235
+  },
+  {
+    "voltageMeasured": 3.362040166337937,
+    "currentMeasured": -0.9943302131115135,
+    "currentCharge": 1,
+    "voltageCharge": 2.817,
+    "temperature": 9.030355582487822,
+    "location": [
+      -56.5689361256325,
+      118.54137404378218
+    ],
+    "time": 4600.469
+  },
+  {
+    "voltageMeasured": 3.3606768344867635,
+    "currentMeasured": -0.9948234610436305,
+    "currentCharge": 1,
+    "voltageCharge": 2.816,
+    "temperature": 9.040240163348676,
+    "location": [
+      42.20366364298826,
+      45.29353164770362
+    ],
+    "time": 4613.719
+  },
+  {
+    "voltageMeasured": 3.359175580050265,
+    "currentMeasured": -0.9943028275450858,
+    "currentCharge": 1,
+    "voltageCharge": 2.814,
+    "temperature": 9.097750364735465,
+    "location": [
+      54.58526698975743,
+      29.063686191890667
+    ],
+    "time": 4626.938
+  },
+  {
+    "voltageMeasured": 3.357687888333479,
+    "currentMeasured": -0.9960465311623748,
+    "currentCharge": 1,
+    "voltageCharge": 2.813,
+    "temperature": 9.125881830741283,
+    "location": [
+      62.525822083943495,
+      35.52613014709138
+    ],
+    "time": 4640.203
+  },
+  {
+    "voltageMeasured": 3.356351454057462,
+    "currentMeasured": -0.9949806176685959,
+    "currentCharge": 1,
+    "voltageCharge": 2.811,
+    "temperature": 9.143516423513844,
+    "location": [
+      -19.824826219792044,
+      -142.98491999785966
+    ],
+    "time": 4653.469
+  },
+  {
+    "voltageMeasured": 3.354768698040336,
+    "currentMeasured": -0.9959231209502464,
+    "currentCharge": 1,
+    "voltageCharge": 2.81,
+    "temperature": 9.164196626164916,
+    "location": [
+      76.9559150597785,
+      -173.9889785906929
+    ],
+    "time": 4666.797
+  },
+  {
+    "voltageMeasured": 3.353080488901673,
+    "currentMeasured": -0.9957704638727626,
+    "currentCharge": 1,
+    "voltageCharge": 2.809,
+    "temperature": 9.207747448919465,
+    "location": [
+      -9.707394957645988,
+      103.98893229075975
+    ],
+    "time": 4679.985
+  },
+  {
+    "voltageMeasured": 3.351539152173533,
+    "currentMeasured": -0.9949490496761857,
+    "currentCharge": 1,
+    "voltageCharge": 2.807,
+    "temperature": 9.247858346017308,
+    "location": [
+      -12.956896937640224,
+      -179.92984876380797
+    ],
+    "time": 4693.266
+  },
+  {
+    "voltageMeasured": 3.3501445709661226,
+    "currentMeasured": -0.9955316327262964,
+    "currentCharge": 1,
+    "voltageCharge": 2.805,
+    "temperature": 9.28300103276093,
+    "location": [
+      4.93225872093457,
+      -111.1167647019463
+    ],
+    "time": 4706.453
+  },
+  {
+    "voltageMeasured": 3.3485118077209535,
+    "currentMeasured": -0.9954323130433258,
+    "currentCharge": 1,
+    "voltageCharge": 2.803,
+    "temperature": 9.308988416448518,
+    "location": [
+      -15.622432681734551,
+      37.12099012048449
+    ],
+    "time": 4719.703
+  },
+  {
+    "voltageMeasured": 3.346940626537693,
+    "currentMeasured": -0.9953589017659018,
+    "currentCharge": 1,
+    "voltageCharge": 2.802,
+    "temperature": 9.331577770644042,
+    "location": [
+      -15.689794029266764,
+      -113.21317310733194
+    ],
+    "time": 4732.953
+  },
+  {
+    "voltageMeasured": 3.3454029521823054,
+    "currentMeasured": -0.9953115556257863,
+    "currentCharge": 1,
+    "voltageCharge": 2.801,
+    "temperature": 9.355883419527487,
+    "location": [
+      46.243719456263904,
+      -11.786931114382298
+    ],
+    "time": 4746.203
+  },
+  {
+    "voltageMeasured": 3.343717506023549,
+    "currentMeasured": -0.9948107004573861,
+    "currentCharge": 1,
+    "voltageCharge": 2.799,
+    "temperature": 9.382475339411753,
+    "location": [
+      41.64318435345018,
+      -157.91165419542685
+    ],
+    "time": 4759.469
+  },
+  {
+    "voltageMeasured": 3.3419918970059226,
+    "currentMeasured": -0.9973111344171603,
+    "currentCharge": 1,
+    "voltageCharge": 2.797,
+    "temperature": 9.4170922080683,
+    "location": [
+      -14.60716279809597,
+      67.13709899664633
+    ],
+    "time": 4772.719
+  },
+  {
+    "voltageMeasured": 3.340198563060068,
+    "currentMeasured": -0.9940398917641348,
+    "currentCharge": 1,
+    "voltageCharge": 2.795,
+    "temperature": 9.433677610935984,
+    "location": [
+      50.89352239002366,
+      63.94282400202138
+    ],
+    "time": 4786
+  },
+  {
+    "voltageMeasured": 3.338223209606903,
+    "currentMeasured": -0.9956405160162938,
+    "currentCharge": 1,
+    "voltageCharge": 2.793,
+    "temperature": 9.484025266091127,
+    "location": [
+      25.36761948350629,
+      157.41429380120087
+    ],
+    "time": 4799.25
+  },
+  {
+    "voltageMeasured": 3.3365835345759205,
+    "currentMeasured": -0.9962522439110486,
+    "currentCharge": 1,
+    "voltageCharge": 2.792,
+    "temperature": 9.531395149395633,
+    "location": [
+      87.62192595103701,
+      44.77849458411461
+    ],
+    "time": 4812.485
+  },
+  {
+    "voltageMeasured": 3.335109499518284,
+    "currentMeasured": -0.9938260780926159,
+    "currentCharge": 1,
+    "voltageCharge": 2.79,
+    "temperature": 9.553860800567326,
+    "location": [
+      34.40969096054158,
+      -50.85084385258847
+    ],
+    "time": 4825.735
+  },
+  {
+    "voltageMeasured": 3.3331915168632786,
+    "currentMeasured": -0.9947715708674482,
+    "currentCharge": 1,
+    "voltageCharge": 2.788,
+    "temperature": 9.590396452178101,
+    "location": [
+      -71.18117212270442,
+      80.070332457409
+    ],
+    "time": 4838.922
+  },
+  {
+    "voltageMeasured": 3.331479794454772,
+    "currentMeasured": -0.9944915659381345,
+    "currentCharge": 1,
+    "voltageCharge": 2.787,
+    "temperature": 9.608629798136608,
+    "location": [
+      65.24729839276952,
+      74.44081946201223
+    ],
+    "time": 4852.125
+  },
+  {
+    "voltageMeasured": 3.3295123072297614,
+    "currentMeasured": -0.9969820528683891,
+    "currentCharge": 1,
+    "voltageCharge": 2.785,
+    "temperature": 9.645138929945173,
+    "location": [
+      4.653652650743041,
+      -62.21354277219501
+    ],
+    "time": 4865.422
+  },
+  {
+    "voltageMeasured": 3.3275279192582565,
+    "currentMeasured": -0.9956147203994499,
+    "currentCharge": 1,
+    "voltageCharge": 2.783,
+    "temperature": 9.676228177009312,
+    "location": [
+      88.01184277931745,
+      -106.51929169614898
+    ],
+    "time": 4878.672
+  },
+  {
+    "voltageMeasured": 3.325828116597998,
+    "currentMeasured": -0.9967694923135623,
+    "currentCharge": 1,
+    "voltageCharge": 2.781,
+    "temperature": 9.727067001276257,
+    "location": [
+      -18.446008992153722,
+      149.19934556791355
+    ],
+    "time": 4891.985
+  },
+  {
+    "voltageMeasured": 3.3238964650887235,
+    "currentMeasured": -0.9966677338647368,
+    "currentCharge": 1,
+    "voltageCharge": 2.779,
+    "temperature": 9.748091079482334,
+    "location": [
+      -78.0103836452675,
+      21.87590169674661
+    ],
+    "time": 4905.219
+  },
+  {
+    "voltageMeasured": 3.3216836950110897,
+    "currentMeasured": -0.9958994984932361,
+    "currentCharge": 1,
+    "voltageCharge": 2.777,
+    "temperature": 9.75183326646354,
+    "location": [
+      49.79448820387148,
+      63.73099812293711
+    ],
+    "time": 4918.453
+  },
+  {
+    "voltageMeasured": 3.3196939591176795,
+    "currentMeasured": -0.9951539485800728,
+    "currentCharge": 1,
+    "voltageCharge": 2.775,
+    "temperature": 9.791726836716649,
+    "location": [
+      -66.94563473026591,
+      179.53563220428043
+    ],
+    "time": 4931.672
+  },
+  {
+    "voltageMeasured": 3.31758091531066,
+    "currentMeasured": -0.9956633701451857,
+    "currentCharge": 1,
+    "voltageCharge": 2.773,
+    "temperature": 9.837484170430141,
+    "location": [
+      -1.5654952098292796,
+      -31.855462698414357
+    ],
+    "time": 4944.891
+  },
+  {
+    "voltageMeasured": 3.3154325890115723,
+    "currentMeasured": -0.9971870566150327,
+    "currentCharge": 1,
+    "voltageCharge": 2.771,
+    "temperature": 9.840941797245488,
+    "location": [
+      -4.585817185783469,
+      103.91207531033223
+    ],
+    "time": 4958.125
+  },
+  {
+    "voltageMeasured": 3.313360051140094,
+    "currentMeasured": -0.9950783999213845,
+    "currentCharge": 1,
+    "voltageCharge": 2.769,
+    "temperature": 9.900247594393614,
+    "location": [
+      -72.34133014796751,
+      23.309093783776916
+    ],
+    "time": 4971.375
+  },
+  {
+    "voltageMeasured": 3.311165032975942,
+    "currentMeasured": -0.9949359429785856,
+    "currentCharge": 1,
+    "voltageCharge": 2.767,
+    "temperature": 9.915566258783429,
+    "location": [
+      8.92458959683367,
+      -87.47209881668482
+    ],
+    "time": 4984.61
+  },
+  {
+    "voltageMeasured": 3.308974471473522,
+    "currentMeasured": -0.994687492243279,
+    "currentCharge": 1,
+    "voltageCharge": 2.765,
+    "temperature": 9.953522278525869,
+    "location": [
+      44.53899148205676,
+      -90.89041799146672
+    ],
+    "time": 4997.844
+  },
+  {
+    "voltageMeasured": 3.306806549355666,
+    "currentMeasured": -0.9951695326194409,
+    "currentCharge": 1,
+    "voltageCharge": 2.763,
+    "temperature": 9.9813661243368,
+    "location": [
+      -52.058700569341454,
+      -93.0790836888004
+    ],
+    "time": 5011.094
+  },
+  {
+    "voltageMeasured": 3.3044664278815046,
+    "currentMeasured": -0.995793431613588,
+    "currentCharge": 1,
+    "voltageCharge": 2.761,
+    "temperature": 10.027634841860223,
+    "location": [
+      -85.38512515461382,
+      -119.33027467966092
+    ],
+    "time": 5024.328
+  },
+  {
+    "voltageMeasured": 3.3022418939529774,
+    "currentMeasured": -0.9962214428420715,
+    "currentCharge": 1,
+    "voltageCharge": 2.758,
+    "temperature": 10.034497903420077,
+    "location": [
+      -5.58913704446374,
+      132.86275371779902
+    ],
+    "time": 5037.61
+  },
+  {
+    "voltageMeasured": 3.299827992975363,
+    "currentMeasured": -0.99501809720771,
+    "currentCharge": 1,
+    "voltageCharge": 2.755,
+    "temperature": 10.08154152349283,
+    "location": [
+      -3.879786166812522,
+      -11.879961789763968
+    ],
+    "time": 5050.906
+  },
+  {
+    "voltageMeasured": 3.297457816243593,
+    "currentMeasured": -0.9954241909256071,
+    "currentCharge": 1,
+    "voltageCharge": 2.753,
+    "temperature": 10.059615737714099,
+    "location": [
+      -25.46643011504375,
+      -79.29487804806367
+    ],
+    "time": 5064.11
+  },
+  {
+    "voltageMeasured": 3.2946615178424774,
+    "currentMeasured": -0.9954845421113667,
+    "currentCharge": 1,
+    "voltageCharge": 2.751,
+    "temperature": 9.84140796521786,
+    "location": [
+      85.62619464947542,
+      125.91797184891868
+    ],
+    "time": 5077.328
+  },
+  {
+    "voltageMeasured": 3.2915688058630304,
+    "currentMeasured": -0.9950206845445376,
+    "currentCharge": 1,
+    "voltageCharge": 2.747,
+    "temperature": 9.637265447710005,
+    "location": [
+      -58.62186561948543,
+      123.50860705513247
+    ],
+    "time": 5090.547
+  },
+  {
+    "voltageMeasured": 3.287957250700658,
+    "currentMeasured": -0.9959468180845289,
+    "currentCharge": 1,
+    "voltageCharge": 2.744,
+    "temperature": 9.436062072733758,
+    "location": [
+      -80.57433211525961,
+      66.04317230062372
+    ],
+    "time": 5103.781
+  },
+  {
+    "voltageMeasured": 3.284197374401378,
+    "currentMeasured": -0.9952365916717061,
+    "currentCharge": 1,
+    "voltageCharge": 2.74,
+    "temperature": 9.289643616111881,
+    "location": [
+      18.994078609738537,
+      -24.169863680130447
+    ],
+    "time": 5117.031
+  },
+  {
+    "voltageMeasured": 3.2799764115244545,
+    "currentMeasured": -0.9951305682415228,
+    "currentCharge": 1,
+    "voltageCharge": 2.736,
+    "temperature": 9.11363659552761,
+    "location": [
+      -31.77465707053227,
+      -56.25461677320325
+    ],
+    "time": 5130.297
+  },
+  {
+    "voltageMeasured": 3.2757379541716674,
+    "currentMeasured": -0.9957553125133675,
+    "currentCharge": 1,
+    "voltageCharge": 2.732,
+    "temperature": 8.984968794788795,
+    "location": [
+      25.902299146247117,
+      83.7024858233384
+    ],
+    "time": 5143.5
+  },
+  {
+    "voltageMeasured": 3.2709358839556115,
+    "currentMeasured": -0.9958482131668838,
+    "currentCharge": 1,
+    "voltageCharge": 2.727,
+    "temperature": 8.849839192471896,
+    "location": [
+      61.532681131081375,
+      -49.49005262842098
+    ],
+    "time": 5156.735
+  },
+  {
+    "voltageMeasured": 3.2661698943161435,
+    "currentMeasured": -0.9951845494339064,
+    "currentCharge": 1,
+    "voltageCharge": 2.723,
+    "temperature": 8.736253353673524,
+    "location": [
+      -70.06291315126097,
+      -5.457319600822871
+    ],
+    "time": 5169.969
+  },
+  {
+    "voltageMeasured": 3.2612991359396095,
+    "currentMeasured": -0.9954712143707993,
+    "currentCharge": 1,
+    "voltageCharge": 2.717,
+    "temperature": 8.652626301873083,
+    "location": [
+      85.73143816521551,
+      77.82200708551306
+    ],
+    "time": 5183.219
+  },
+  {
+    "voltageMeasured": 3.2559893616058466,
+    "currentMeasured": -0.9963047555357765,
+    "currentCharge": 1,
+    "voltageCharge": 2.712,
+    "temperature": 8.606338698159968,
+    "location": [
+      -30.873682646905742,
+      11.367348544084365
+    ],
+    "time": 5196.516
+  },
+  {
+    "voltageMeasured": 3.250608240759355,
+    "currentMeasured": -0.9953448269471986,
+    "currentCharge": 1,
+    "voltageCharge": 2.707,
+    "temperature": 8.445971607193858,
+    "location": [
+      89.54683838533816,
+      -154.37415806206053
+    ],
+    "time": 5209.813
+  },
+  {
+    "voltageMeasured": 3.244985479757389,
+    "currentMeasured": -0.9944024423796656,
+    "currentCharge": 1,
+    "voltageCharge": 2.701,
+    "temperature": 8.352157550730217,
+    "location": [
+      46.84830350651956,
+      -18.760029306029963
+    ],
+    "time": 5223.125
+  },
+  {
+    "voltageMeasured": 3.2393202782071677,
+    "currentMeasured": -0.9925656812526117,
+    "currentCharge": 1,
+    "voltageCharge": 2.696,
+    "temperature": 8.241470213826386,
+    "location": [
+      54.89710434294946,
+      -15.224742473510503
+    ],
+    "time": 5236.344
+  },
+  {
+    "voltageMeasured": 3.2335001156461747,
+    "currentMeasured": -0.9954598960970966,
+    "currentCharge": 1,
+    "voltageCharge": 2.69,
+    "temperature": 8.227027097986195,
+    "location": [
+      -74.3659041345121,
+      44.73139233617715
+    ],
+    "time": 5249.656
+  },
+  {
+    "voltageMeasured": 3.2276694558380865,
+    "currentMeasured": -0.9951410149773222,
+    "currentCharge": 1,
+    "voltageCharge": 2.684,
+    "temperature": 8.200768875651661,
+    "location": [
+      -77.06622488529099,
+      -114.46296340374428
+    ],
+    "time": 5262.891
+  },
+  {
+    "voltageMeasured": 3.221682761826305,
+    "currentMeasured": -0.9956843743025966,
+    "currentCharge": 1,
+    "voltageCharge": 2.678,
+    "temperature": 8.26277475530557,
+    "location": [
+      71.4343253210929,
+      26.73588797560049
+    ],
+    "time": 5276.141
+  },
+  {
+    "voltageMeasured": 3.216138187725933,
+    "currentMeasured": -0.9957550973838226,
+    "currentCharge": 1,
+    "voltageCharge": 2.673,
+    "temperature": 8.417546650754185,
+    "location": [
+      85.23814689985826,
+      155.213320993161
+    ],
+    "time": 5289.516
+  },
+  {
+    "voltageMeasured": 3.210649741962537,
+    "currentMeasured": -0.9953766207258711,
+    "currentCharge": 1,
+    "voltageCharge": 2.667,
+    "temperature": 8.48764631806105,
+    "location": [
+      76.12950284153294,
+      -8.88332677358818
+    ],
+    "time": 5302.797
+  },
+  {
+    "voltageMeasured": 3.2054349879960062,
+    "currentMeasured": -0.9947605333233395,
+    "currentCharge": 1,
+    "voltageCharge": 2.662,
+    "temperature": 8.592413641813904,
+    "location": [
+      86.96988553950072,
+      -172.3755943190984
+    ],
+    "time": 5316.078
+  },
+  {
+    "voltageMeasured": 3.2002919902838394,
+    "currentMeasured": -0.9955930671441604,
+    "currentCharge": 1,
+    "voltageCharge": 2.657,
+    "temperature": 8.673750881251491,
+    "location": [
+      -30.291974584596467,
+      -34.655161244203356
+    ],
+    "time": 5329.344
+  },
+  {
+    "voltageMeasured": 3.195219948100102,
+    "currentMeasured": -0.9942482950115842,
+    "currentCharge": 1,
+    "voltageCharge": 2.652,
+    "temperature": 8.724841346223897,
+    "location": [
+      -34.156955743837614,
+      63.70411726385103
+    ],
+    "time": 5342.594
+  },
+  {
+    "voltageMeasured": 3.1902596092192295,
+    "currentMeasured": -0.9957161690815958,
+    "currentCharge": 1,
+    "voltageCharge": 2.646,
+    "temperature": 8.785330569579788,
+    "location": [
+      7.986404200837114,
+      41.86446477447802
+    ],
+    "time": 5355.844
+  },
+  {
+    "voltageMeasured": 3.1850816758708627,
+    "currentMeasured": -0.9941257959989538,
+    "currentCharge": 1,
+    "voltageCharge": 2.642,
+    "temperature": 8.859500337002471,
+    "location": [
+      -88.15933775129766,
+      45.48830135035723
+    ],
+    "time": 5369.219
+  },
+  {
+    "voltageMeasured": 3.1801293618675808,
+    "currentMeasured": -0.9967114953965915,
+    "currentCharge": 1,
+    "voltageCharge": 2.636,
+    "temperature": 8.898316514358887,
+    "location": [
+      81.98108204956145,
+      -137.37136067647305
+    ],
+    "time": 5382.453
+  },
+  {
+    "voltageMeasured": 3.1752368694225814,
+    "currentMeasured": -0.9940462434468443,
+    "currentCharge": 1,
+    "voltageCharge": 2.632,
+    "temperature": 8.968223540839395,
+    "location": [
+      -45.09649874902487,
+      48.87961204664191
+    ],
+    "time": 5395.688
+  },
+  {
+    "voltageMeasured": 3.1704853408425353,
+    "currentMeasured": -0.9967493441696742,
+    "currentCharge": 1,
+    "voltageCharge": 2.627,
+    "temperature": 9.01854270510748,
+    "location": [
+      48.750744114136126,
+      -53.0145159979123
+    ],
+    "time": 5408.906
+  },
+  {
+    "voltageMeasured": 3.1654282724755256,
+    "currentMeasured": -0.9947048715597475,
+    "currentCharge": 1,
+    "voltageCharge": 2.622,
+    "temperature": 9.050200039502396,
+    "location": [
+      -35.56890631117363,
+      20.181095104607238
+    ],
+    "time": 5422.156
+  },
+  {
+    "voltageMeasured": 3.1603680933530773,
+    "currentMeasured": -0.9968979138964394,
+    "currentCharge": 1,
+    "voltageCharge": 2.616,
+    "temperature": 9.084287763912801,
+    "location": [
+      19.99046886630397,
+      -154.040303661817
+    ],
+    "time": 5435.391
+  },
+  {
+    "voltageMeasured": 3.1551399819103714,
+    "currentMeasured": -0.9954826924215132,
+    "currentCharge": 1,
+    "voltageCharge": 2.611,
+    "temperature": 9.14337784699052,
+    "location": [
+      9.328224460602982,
+      77.0696567370104
+    ],
+    "time": 5448.641
+  },
+  {
+    "voltageMeasured": 3.149965619193311,
+    "currentMeasured": -0.9949330561340936,
+    "currentCharge": 1,
+    "voltageCharge": 2.606,
+    "temperature": 9.23446189150085,
+    "location": [
+      -17.474197725077715,
+      134.87799402485473
+    ],
+    "time": 5461.938
+  },
+  {
+    "voltageMeasured": 3.1448203538931594,
+    "currentMeasured": -0.994220398573304,
+    "currentCharge": 1,
+    "voltageCharge": 2.601,
+    "temperature": 9.212588958115099,
+    "location": [
+      41.86741617977282,
+      122.56608153945831
+    ],
+    "time": 5475.172
+  },
+  {
+    "voltageMeasured": 3.139252195094655,
+    "currentMeasured": -0.9961467661642928,
+    "currentCharge": 1,
+    "voltageCharge": 2.596,
+    "temperature": 9.243578722861399,
+    "location": [
+      -49.5106744866989,
+      -128.25127068947458
+    ],
+    "time": 5488.406
+  },
+  {
+    "voltageMeasured": 3.1339874700643064,
+    "currentMeasured": -0.9952120217035082,
+    "currentCharge": 1,
+    "voltageCharge": 2.59,
+    "temperature": 9.352178627127573,
+    "location": [
+      89.88528481712436,
+      -66.151361848939
+    ],
+    "time": 5501.688
+  },
+  {
+    "voltageMeasured": 3.128410378384067,
+    "currentMeasured": -0.9944856379849347,
+    "currentCharge": 1,
+    "voltageCharge": 2.584,
+    "temperature": 9.361428082386515,
+    "location": [
+      1.2932578345787675,
+      -26.113697910503078
+    ],
+    "time": 5514.953
+  },
+  {
+    "voltageMeasured": 3.1229502514167073,
+    "currentMeasured": -0.9964482993691763,
+    "currentCharge": 1,
+    "voltageCharge": 2.579,
+    "temperature": 9.452137670033697,
+    "location": [
+      2.351620038049802,
+      7.392057314737173
+    ],
+    "time": 5528.266
+  },
+  {
+    "voltageMeasured": 3.117213574056475,
+    "currentMeasured": -0.9948629331117712,
+    "currentCharge": 1,
+    "voltageCharge": 2.573,
+    "temperature": 9.497491848692468,
+    "location": [
+      -75.26784738304642,
+      93.37569211567506
+    ],
+    "time": 5541.531
+  },
+  {
+    "voltageMeasured": 3.1115121467583324,
+    "currentMeasured": -0.9965487021744697,
+    "currentCharge": 1,
+    "voltageCharge": 2.568,
+    "temperature": 9.524944943524387,
+    "location": [
+      8.038352260777401,
+      -30.604728518996268
+    ],
+    "time": 5554.766
+  },
+  {
+    "voltageMeasured": 3.1054193111437853,
+    "currentMeasured": -0.9948876137154262,
+    "currentCharge": 1,
+    "voltageCharge": 2.562,
+    "temperature": 9.568483657863137,
+    "location": [
+      19.15950132395217,
+      -74.69459721957935
+    ],
+    "time": 5568.031
+  },
+  {
+    "voltageMeasured": 3.099286633745663,
+    "currentMeasured": -0.994234271572122,
+    "currentCharge": 1,
+    "voltageCharge": 2.556,
+    "temperature": 9.605103194580701,
+    "location": [
+      -22.620580211752866,
+      31.375387297677804
+    ],
+    "time": 5581.375
+  },
+  {
+    "voltageMeasured": 3.093125123641961,
+    "currentMeasured": -0.997207808343478,
+    "currentCharge": 1,
+    "voltageCharge": 2.549,
+    "temperature": 9.652898814658561,
+    "location": [
+      -31.497553734269026,
+      79.38096235172037
+    ],
+    "time": 5594.594
+  },
+  {
+    "voltageMeasured": 3.086741856287959,
+    "currentMeasured": -0.9956523605356756,
+    "currentCharge": 1,
+    "voltageCharge": 2.543,
+    "temperature": 9.701804093931313,
+    "location": [
+      16.5652260471618,
+      115.55960618608628
+    ],
+    "time": 5607.813
+  },
+  {
+    "voltageMeasured": 3.0803739270748363,
+    "currentMeasured": -0.9961345650708506,
+    "currentCharge": 1,
+    "voltageCharge": 2.536,
+    "temperature": 9.751419535522931,
+    "location": [
+      31.169670165496896,
+      -10.939935590014699
+    ],
+    "time": 5621.047
+  },
+  {
+    "voltageMeasured": 3.0738057209079233,
+    "currentMeasured": -0.99608051153022,
+    "currentCharge": 1,
+    "voltageCharge": 2.53,
+    "temperature": 9.800535442677399,
+    "location": [
+      -15.852697735026766,
+      -127.2525698831542
+    ],
+    "time": 5634.297
+  },
+  {
+    "voltageMeasured": 3.066985494143711,
+    "currentMeasured": -0.9953930527828354,
+    "currentCharge": 1,
+    "voltageCharge": 2.523,
+    "temperature": 9.844641909258403,
+    "location": [
+      -31.494688709577176,
+      14.145712302653209
+    ],
+    "time": 5647.516
+  },
+  {
+    "voltageMeasured": 3.060191477019926,
+    "currentMeasured": -0.9935236007142138,
+    "currentCharge": 1,
+    "voltageCharge": 2.516,
+    "temperature": 9.910290385446276,
+    "location": [
+      54.28374935415175,
+      32.71002449615213
+    ],
+    "time": 5660.735
+  },
+  {
+    "voltageMeasured": 3.053148253866842,
+    "currentMeasured": -0.996966376793198,
+    "currentCharge": 1,
+    "voltageCharge": 2.509,
+    "temperature": 9.996225655352212,
+    "location": [
+      -43.29458511500127,
+      101.44475470241343
+    ],
+    "time": 5673.969
+  },
+  {
+    "voltageMeasured": 3.046044672259406,
+    "currentMeasured": -0.9966159036638845,
+    "currentCharge": 1,
+    "voltageCharge": 2.502,
+    "temperature": 10.088102274167214,
+    "location": [
+      -3.8648284293869466,
+      -105.91470378520957
+    ],
+    "time": 5687.203
+  },
+  {
+    "voltageMeasured": 3.0384601146961097,
+    "currentMeasured": -0.9954746416003694,
+    "currentCharge": 1,
+    "voltageCharge": 2.494,
+    "temperature": 10.128268405690257,
+    "location": [
+      68.45421592819491,
+      80.49392616477536
+    ],
+    "time": 5700.406
+  },
+  {
+    "voltageMeasured": 3.031002859512311,
+    "currentMeasured": -0.997277222506697,
+    "currentCharge": 1,
+    "voltageCharge": 2.487,
+    "temperature": 10.176151685362504,
+    "location": [
+      -57.81803098753202,
+      -153.78887308341987
+    ],
+    "time": 5713.688
+  },
+  {
+    "voltageMeasured": 3.0231117092527775,
+    "currentMeasured": -0.9967012629980978,
+    "currentCharge": 1,
+    "voltageCharge": 2.479,
+    "temperature": 10.203617908044922,
+    "location": [
+      -4.442118433866597,
+      -50.583191227695494
+    ],
+    "time": 5726.891
+  },
+  {
+    "voltageMeasured": 3.015191693115315,
+    "currentMeasured": -0.9960291549571214,
+    "currentCharge": 1,
+    "voltageCharge": 2.471,
+    "temperature": 10.242458124942624,
+    "location": [
+      25.907038571167234,
+      166.11645949939788
+    ],
+    "time": 5740.141
+  },
+  {
+    "voltageMeasured": 3.0070120127881332,
+    "currentMeasured": -0.9945795441660009,
+    "currentCharge": 1,
+    "voltageCharge": 2.463,
+    "temperature": 10.370748767134051,
+    "location": [
+      73.76934657473333,
+      -89.58361948722006
+    ],
+    "time": 5753.344
+  },
+  {
+    "voltageMeasured": 2.998243877368653,
+    "currentMeasured": -0.9961408436818434,
+    "currentCharge": 1,
+    "voltageCharge": 2.454,
+    "temperature": 10.388448266349714,
+    "location": [
+      -43.89647675012482,
+      41.59353492028285
+    ],
+    "time": 5766.578
+  },
+  {
+    "voltageMeasured": 2.9897585994541593,
+    "currentMeasured": -0.9949743409455409,
+    "currentCharge": 1,
+    "voltageCharge": 2.446,
+    "temperature": 10.40858594456975,
+    "location": [
+      25.8657318273589,
+      77.57513049918623
+    ],
+    "time": 5779.781
+  },
+  {
+    "voltageMeasured": 2.9805995441728186,
+    "currentMeasured": -0.9951179754360588,
+    "currentCharge": 1,
+    "voltageCharge": 2.436,
+    "temperature": 10.4932127021189,
+    "location": [
+      76.57779685562048,
+      174.959105941615
+    ],
+    "time": 5793
+  },
+  {
+    "voltageMeasured": 2.971227655824078,
+    "currentMeasured": -0.9958225126405901,
+    "currentCharge": 1,
+    "voltageCharge": 2.427,
+    "temperature": 10.559617108135868,
+    "location": [
+      -89.82861616975069,
+      158.49589563739187
+    ],
+    "time": 5806.203
+  },
+  {
+    "voltageMeasured": 2.9615583985163454,
+    "currentMeasured": -0.9969529169060949,
+    "currentCharge": 1,
+    "voltageCharge": 2.418,
+    "temperature": 10.595853622875952,
+    "location": [
+      78.52012656978334,
+      81.4415925456318
+    ],
+    "time": 5819.438
+  },
+  {
+    "voltageMeasured": 2.9515542662640546,
+    "currentMeasured": -0.9970709552453125,
+    "currentCharge": 1,
+    "voltageCharge": 2.408,
+    "temperature": 10.623283642571357,
+    "location": [
+      -79.37256540989623,
+      -29.261961952601894
+    ],
+    "time": 5832.688
+  },
+  {
+    "voltageMeasured": 2.9413454877307394,
+    "currentMeasured": -0.9963986813572085,
+    "currentCharge": 1,
+    "voltageCharge": 2.398,
+    "temperature": 10.680185648861626,
+    "location": [
+      88.5263858003571,
+      137.41568182490442
+    ],
+    "time": 5845.953
+  },
+  {
+    "voltageMeasured": 2.930887417486187,
+    "currentMeasured": -0.996147335825787,
+    "currentCharge": 1,
+    "voltageCharge": 2.387,
+    "temperature": 10.767855657558636,
+    "location": [
+      85.87482476635216,
+      149.05328594578384
+    ],
+    "time": 5859.25
+  },
+  {
+    "voltageMeasured": 2.9199611927989615,
+    "currentMeasured": -0.9940526935924002,
+    "currentCharge": 1,
+    "voltageCharge": 2.376,
+    "temperature": 10.809444766538657,
+    "location": [
+      71.51142710935221,
+      29.913222222396286
+    ],
+    "time": 5872.453
+  },
+  {
+    "voltageMeasured": 2.908525386260133,
+    "currentMeasured": -0.9961051327462835,
+    "currentCharge": 1,
+    "voltageCharge": 2.365,
+    "temperature": 10.870441935964266,
+    "location": [
+      14.859006594310884,
+      128.03813797767873
+    ],
+    "time": 5885.719
+  },
+  {
+    "voltageMeasured": 2.8966305842345883,
+    "currentMeasured": -0.9945920729027192,
+    "currentCharge": 1,
+    "voltageCharge": 2.354,
+    "temperature": 10.900859658817685,
+    "location": [
+      29.237792840988718,
+      10.769818401495968
+    ],
+    "time": 5898.938
+  },
+  {
+    "voltageMeasured": 2.88431862610664,
+    "currentMeasured": -0.9961489742182893,
+    "currentCharge": 1,
+    "voltageCharge": 2.341,
+    "temperature": 10.952326178773866,
+    "location": [
+      7.92600588157751,
+      154.62350804137048
+    ],
+    "time": 5912.172
+  },
+  {
+    "voltageMeasured": 2.871468347292039,
+    "currentMeasured": -0.9956385499034718,
+    "currentCharge": 1,
+    "voltageCharge": 2.329,
+    "temperature": 11.041627624423,
+    "location": [
+      57.04429257739582,
+      166.79712825581373
+    ],
+    "time": 5925.406
+  },
+  {
+    "voltageMeasured": 2.858615404157315,
+    "currentMeasured": -0.9957779455282064,
+    "currentCharge": 1,
+    "voltageCharge": 2.315,
+    "temperature": 11.072979914054729,
+    "location": [
+      14.246557540655004,
+      -90.87567188321344
+    ],
+    "time": 5938.672
+  },
+  {
+    "voltageMeasured": 2.8446134055961525,
+    "currentMeasured": -0.9958359673807189,
+    "currentCharge": 1,
+    "voltageCharge": 2.302,
+    "temperature": 11.16469464166329,
+    "location": [
+      -84.13116276892666,
+      -170.63783768440373
+    ],
+    "time": 5951.938
+  },
+  {
+    "voltageMeasured": 2.8304173356014126,
+    "currentMeasured": -0.9967355569188421,
+    "currentCharge": 1,
+    "voltageCharge": 2.288,
+    "temperature": 11.22268313199463,
+    "location": [
+      -20.77702566392297,
+      56.32805443347871
+    ],
+    "time": 5965.172
+  },
+  {
+    "voltageMeasured": 2.815465595690097,
+    "currentMeasured": -0.99445958568651,
+    "currentCharge": 1,
+    "voltageCharge": 2.273,
+    "temperature": 11.278566410610237,
+    "location": [
+      60.40373590076223,
+      -165.80371275673718
+    ],
+    "time": 5978.375
+  },
+  {
+    "voltageMeasured": 2.8000501106517506,
+    "currentMeasured": -0.9954486071623577,
+    "currentCharge": 1,
+    "voltageCharge": 2.257,
+    "temperature": 11.294870248021414,
+    "location": [
+      -26.59394095864384,
+      -30.58039162162052
+    ],
+    "time": 5991.672
+  },
+  {
+    "voltageMeasured": 2.7837035991367194,
+    "currentMeasured": -0.9966806020903336,
+    "currentCharge": 1,
+    "voltageCharge": 2.241,
+    "temperature": 11.347786795305591,
+    "location": [
+      -68.46938931795914,
+      110.78002711521509
+    ],
+    "time": 6004.953
+  },
+  {
+    "voltageMeasured": 2.7665057088116223,
+    "currentMeasured": -0.9936168861589166,
+    "currentCharge": 1,
+    "voltageCharge": 2.224,
+    "temperature": 11.406969511711834,
+    "location": [
+      37.29211225935411,
+      141.01311020267747
+    ],
+    "time": 6018.36
+  },
+  {
+    "voltageMeasured": 2.7486582443839778,
+    "currentMeasured": -0.9968675331597474,
+    "currentCharge": 1,
+    "voltageCharge": 2.206,
+    "temperature": 11.490891091615984,
+    "location": [
+      29.810993266383903,
+      18.338617616276423
+    ],
+    "time": 6031.735
+  },
+  {
+    "voltageMeasured": 2.729931966923743,
+    "currentMeasured": -0.9941494462542928,
+    "currentCharge": 1,
+    "voltageCharge": 2.187,
+    "temperature": 11.566086666148536,
+    "location": [
+      -59.77568751014165,
+      61.73286640223293
+    ],
+    "time": 6045.141
+  },
+  {
+    "voltageMeasured": 2.7101320385950642,
+    "currentMeasured": -0.9959345834559319,
+    "currentCharge": 1,
+    "voltageCharge": 2.167,
+    "temperature": 11.632649932988722,
+    "location": [
+      8.372634374717649,
+      -15.015120501413293
+    ],
+    "time": 6058.5
+  },
+  {
+    "voltageMeasured": 2.689299531209884,
+    "currentMeasured": -0.9930495806011348,
+    "currentCharge": 1,
+    "voltageCharge": 2.147,
+    "temperature": 11.713145986532508,
+    "location": [
+      42.05487595053384,
+      177.02052502688053
+    ],
+    "time": 6071.906
+  },
+  {
+    "voltageMeasured": 2.667439028940069,
+    "currentMeasured": -0.9945851711548974,
+    "currentCharge": 1,
+    "voltageCharge": 2.125,
+    "temperature": 11.744369667833906,
+    "location": [
+      26.94171403040656,
+      99.4473672892288
+    ],
+    "time": 6085.297
+  },
+  {
+    "voltageMeasured": 2.6440673622686925,
+    "currentMeasured": -0.9965354204923628,
+    "currentCharge": 1,
+    "voltageCharge": 2.101,
+    "temperature": 11.772681256044072,
+    "location": [
+      87.86300060037655,
+      -67.3203385348421
+    ],
+    "time": 6098.656
+  },
+  {
+    "voltageMeasured": 2.619395340593058,
+    "currentMeasured": -0.9959048562088569,
+    "currentCharge": 1,
+    "voltageCharge": 2.078,
+    "temperature": 11.900914264669726,
+    "location": [
+      -44.60425780688744,
+      58.73126754623959
+    ],
+    "time": 6112.047
+  },
+  {
+    "voltageMeasured": 2.593520084646253,
+    "currentMeasured": -0.9939013706422699,
+    "currentCharge": 1,
+    "voltageCharge": 2.052,
+    "temperature": 11.977145974065792,
+    "location": [
+      52.140966049233214,
+      9.543209347685604
+    ],
+    "time": 6125.438
+  },
+  {
+    "voltageMeasured": 2.5656125249554345,
+    "currentMeasured": -0.995724964775576,
+    "currentCharge": 1,
+    "voltageCharge": 2.025,
+    "temperature": 12.0382152065006,
+    "location": [
+      64.86837884562175,
+      111.32783537171923
+    ],
+    "time": 6138.875
+  },
+  {
+    "voltageMeasured": 2.536252808380642,
+    "currentMeasured": -0.9938444625320708,
+    "currentCharge": 1,
+    "voltageCharge": 1.996,
+    "temperature": 12.128629031914683,
+    "location": [
+      31.724004020133577,
+      29.811829017055743
+    ],
+    "time": 6152.281
+  },
+  {
+    "voltageMeasured": 2.5046693818677896,
+    "currentMeasured": -0.994457783733364,
+    "currentCharge": 1,
+    "voltageCharge": 1.965,
+    "temperature": 12.234625947602698,
+    "location": [
+      -37.873489832862184,
+      -155.2821862216003
+    ],
+    "time": 6165.672
+  },
+  {
+    "voltageMeasured": 2.4706118669327277,
+    "currentMeasured": -0.9948775466662181,
+    "currentCharge": 1,
+    "voltageCharge": 1.931,
+    "temperature": 12.348017896228109,
+    "location": [
+      51.12819473457074,
+      60.83337794252108
+    ],
+    "time": 6179.11
+  },
+  {
+    "voltageMeasured": 2.942942295533995,
+    "currentMeasured": -0.0006893297613851364,
+    "currentCharge": 0.0002,
+    "voltageCharge": 0,
+    "temperature": 12.376815880696887,
+    "location": [
+      10.29114089978151,
+      97.08184197943564
+    ],
+    "time": 6192.656
+  },
+  {
+    "voltageMeasured": 3.050193702611824,
+    "currentMeasured": -0.002597584397125103,
+    "currentCharge": 0.0002,
+    "voltageCharge": 0,
+    "temperature": 12.37407851561253,
+    "location": [
+      69.27233206706887,
+      146.04682808878925
+    ],
+    "time": 6206.219
+  },
+  {
+    "voltageMeasured": 3.1009749147863395,
+    "currentMeasured": -0.0019465453527589072,
+    "currentCharge": 0.0004,
+    "voltageCharge": 0,
+    "temperature": 12.251162739297369,
+    "location": [
+      41.82408734534434,
+      -67.67243062603836
+    ],
+    "time": 6219.719
+  },
+  {
+    "voltageMeasured": 3.1368929085286044,
+    "currentMeasured": -0.0003178890107010738,
+    "currentCharge": 0.0004,
+    "voltageCharge": 0,
+    "temperature": 12.139028855864511,
+    "location": [
+      73.19677830254548,
+      82.91335116193488
+    ],
+    "time": 6233.266
+  },
+  {
+    "voltageMeasured": 3.165273105267426,
+    "currentMeasured": -0.0016569380580756137,
+    "currentCharge": 0.0004,
+    "voltageCharge": 0,
+    "temperature": 12.078360947536217,
+    "location": [
+      -4.230011667086828,
+      6.116220989428371
+    ],
+    "time": 6246.781
+  },
+  {
+    "voltageMeasured": 3.1887276469994426,
+    "currentMeasured": -0.002667151204544861,
+    "currentCharge": 0.0004,
+    "voltageCharge": 0,
+    "temperature": 11.952118566785678,
+    "location": [
+      -84.63362982394065,
+      -119.23317463569381
+    ],
+    "time": 6260.313
+  },
+  {
+    "voltageMeasured": 3.2089500307053105,
+    "currentMeasured": -0.004330836882480022,
+    "currentCharge": 0.0002,
+    "voltageCharge": 0,
+    "temperature": 11.822763273260383,
+    "location": [
+      87.34520992403378,
+      18.918043046883128
+    ],
+    "time": 6273.781
+  },
+  {
+    "voltageMeasured": 3.2263900807381574,
+    "currentMeasured": -0.0016140244223740974,
+    "currentCharge": 0.0002,
+    "voltageCharge": 0,
+    "temperature": 11.716816616952961,
+    "location": [
+      -25.622495404002763,
+      -165.7076774291103
+    ],
+    "time": 6287.313
+  },
+  {
+    "voltageMeasured": 3.2415803806092183,
+    "currentMeasured": -0.0027503984003770204,
+    "currentCharge": 0.0002,
+    "voltageCharge": 0,
+    "temperature": 11.458517318473804,
+    "location": [
+      86.94983120111874,
+      -12.691932855805248
+    ],
+    "time": 6300.797
+  },
+  {
+    "voltageMeasured": 3.2546672739968203,
+    "currentMeasured": -0.0007541770184145135,
+    "currentCharge": 0.0002,
+    "voltageCharge": 0,
+    "temperature": 11.136998318903297,
+    "location": [
+      42.056162157298644,
+      58.16704526768194
+    ],
+    "time": 6314.297
+  },
+  {
+    "voltageMeasured": 3.2663164239224387,
+    "currentMeasured": -0.0011006864214519617,
+    "currentCharge": 0.0004,
+    "voltageCharge": 0,
+    "temperature": 10.749106519600033,
+    "location": [
+      39.10408926770208,
+      39.06749094538378
+    ],
+    "time": 6327.813
+  },
+  {
+    "voltageMeasured": 3.2769597512712325,
+    "currentMeasured": -0.002825852501506586,
+    "currentCharge": 0.0002,
+    "voltageCharge": 0,
+    "temperature": 10.508816349569635,
+    "location": [
+      -7.456447754940612,
+      -21.387350230484685
+    ],
+    "time": 6341.297
+  },
+  {
+    "voltageMeasured": 3.286418164397646,
+    "currentMeasured": -0.0013367734690478068,
+    "currentCharge": 0.0002,
+    "voltageCharge": 0,
+    "temperature": 10.15054582584817,
+    "location": [
+      -42.05894159571475,
+      61.03474430025696
+    ],
+    "time": 6354.906
+  },
+  {
+    "voltageMeasured": 3.2951675537404728,
+    "currentMeasured": -0.0014653042181053436,
+    "currentCharge": 0.0002,
+    "voltageCharge": 0,
+    "temperature": 9.896395049834986,
+    "location": [
+      39.28226736679568,
+      157.5885740285063
+    ],
+    "time": 6368.422
+  },
+  {
+    "voltageMeasured": 3.3032514500525036,
+    "currentMeasured": -0.0017596894906816468,
+    "currentCharge": 0.0004,
+    "voltageCharge": 0,
+    "temperature": 9.662330686213652,
+    "location": [
+      66.34582614773586,
+      -17.897184984808746
+    ],
+    "time": 6382.063
+  },
+  {
+    "voltageMeasured": 3.310303420220758,
+    "currentMeasured": -0.000756420212763443,
+    "currentCharge": 0.0002,
+    "voltageCharge": 0,
+    "temperature": 9.390488931058574,
+    "location": [
+      34.868912704473885,
+      159.31704432421117
+    ],
+    "time": 6395.547
+  },
+  {
+    "voltageMeasured": 3.317351265801437,
+    "currentMeasured": -0.0033181834906045814,
+    "currentCharge": 0.0002,
+    "voltageCharge": 0,
+    "temperature": 9.13700808870156,
+    "location": [
+      -73.65259387568705,
+      140.97415962495785
+    ],
+    "time": 6409.063
+  },
+  {
+    "voltageMeasured": 3.3233866709845534,
+    "currentMeasured": -0.0022913317640823544,
+    "currentCharge": 0.0002,
+    "voltageCharge": 0,
+    "temperature": 8.972806149275533,
+    "location": [
+      17.99722372893794,
+      27.05228513980265
+    ],
+    "time": 6422.625
+  },
+  {
+    "voltageMeasured": 3.3293564839618974,
+    "currentMeasured": -0.0013259841653896498,
+    "currentCharge": 0.0002,
+    "voltageCharge": 0,
+    "temperature": 8.756380752509184,
+    "location": [
+      8.783451892972622,
+      96.55595651200991
+    ],
+    "time": 6436.141
+  },
+  {
+    "voltageMeasured": null,
+    "currentMeasured": null,
+    "currentCharge": null,
+    "voltageCharge": null,
+    "temperature": null,
+    "location": [
+      -37.020899951629374,
+      -87.01670532283465
+    ],
+    "time": null
+  }
+]

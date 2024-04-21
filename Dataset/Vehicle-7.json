@@ -1,0 +1,434 @@
+[
+    {
+        "voltageMeasured": 13.806296774256946,
+        "currentMeasured": 5.191895524295173,
+        "voltageCharge": 4.474913420847334,
+        "currentCharge": 2.3625614191154662,
+        "temperature": 9.556932688503473,
+        "location": [
+            -15.248729550552142,
+            31.24480815307828
+        ],
+        "batteryPercentage": 90
+    },
+    {
+        "voltageMeasured": 4.526395253761191,
+        "currentMeasured": 4.251632079902024,
+        "voltageCharge": 3.4789568216667366,
+        "currentCharge": 1.4785973567411141,
+        "temperature": 23.61564997924509,
+        "location": [
+            62.528320541536345,
+            -3.1910619937195577
+        ],
+        "batteryPercentage": 89.8302539093684
+    },
+    {
+        "voltageMeasured": 19.498041540126152,
+        "currentMeasured": 3.4804138634000426,
+        "voltageCharge": 3.4041149868945952,
+        "currentCharge": 2.2111248438061217,
+        "temperature": 18.683089299956755,
+        "location": [
+            71.33782170640427,
+            53.09199377883195
+        ],
+        "batteryPercentage": 89.79108560129485
+    },
+    {
+        "voltageMeasured": 19.120229967279524,
+        "currentMeasured": 5.249381464526298,
+        "voltageCharge": 0.9849938461875696,
+        "currentCharge": 2.1850928012604687,
+        "temperature": 22.981688695022928,
+        "location": [
+            68.28284821167236,
+            -2.2345626011774016
+        ],
+        "batteryPercentage": 89.62349023777621
+    },
+    {
+        "voltageMeasured": 9.41084838476101,
+        "currentMeasured": 1.16372490173744,
+        "voltageCharge": 1.8966228504946048,
+        "currentCharge": 1.5014159435783763,
+        "temperature": 38.40689622274379,
+        "location": [
+            -70.47080305878666,
+            -169.97420977090133
+        ],
+        "batteryPercentage": 89.3506650215953
+    },
+    {
+        "voltageMeasured": 15.812100977724338,
+        "currentMeasured": 4.4499626414755165,
+        "voltageCharge": 1.3208532961221542,
+        "currentCharge": 1.6245192396665504,
+        "temperature": 18.985326774554533,
+        "location": [
+            64.38228206450927,
+            39.05640208121912
+        ],
+        "batteryPercentage": 89.32815385819215
+    },
+    {
+        "voltageMeasured": 12.160250804746845,
+        "currentMeasured": 6.986141917383922,
+        "voltageCharge": 2.3077321492910907,
+        "currentCharge": 1.8839804750680216,
+        "temperature": 5.803102191938947,
+        "location": [
+            86.4588928086242,
+            -67.30006958291052
+        ],
+        "batteryPercentage": 89.13866078307609
+    },
+    {
+        "voltageMeasured": 3.5461724522818328,
+        "currentMeasured": 6.072313770194718,
+        "voltageCharge": 1.0410247749289225,
+        "currentCharge": 1.842832932438596,
+        "temperature": 41.849389226949874,
+        "location": [
+            -24.577166648884344,
+            41.00999253998722
+        ],
+        "batteryPercentage": 88.91475657318166
+    },
+    {
+        "voltageMeasured": 3.2027218571175453,
+        "currentMeasured": 2.446932696974416,
+        "voltageCharge": 4.907243209916519,
+        "currentCharge": 1.2017864989215452,
+        "temperature": 8.444583091119062,
+        "location": [
+            -27.24173113252745,
+            -144.5404921913068
+        ],
+        "batteryPercentage": 88.86027035908512
+    },
+    {
+        "voltageMeasured": 9.298376519159145,
+        "currentMeasured": 2.726738019438809,
+        "voltageCharge": 0.7421661059911444,
+        "currentCharge": 1.6882262405580446,
+        "temperature": 25.023197023702426,
+        "location": [
+            4.480157018013088,
+            -118.12649436829734
+        ],
+        "batteryPercentage": 88.85488317521042
+    },
+    {
+        "voltageMeasured": 4.090878013384627,
+        "currentMeasured": 5.239826204082329,
+        "voltageCharge": 0.7387004173575684,
+        "currentCharge": 2.27823948143599,
+        "temperature": 19.365028218018367,
+        "location": [
+            -29.87605496671646,
+            56.16599611914765
+        ],
+        "batteryPercentage": 88.78793514054692
+    },
+    {
+        "voltageMeasured": 0.14885652422834017,
+        "currentMeasured": 4.527978317540729,
+        "voltageCharge": 3.951685645614896,
+        "currentCharge": 1.7210632841023368,
+        "temperature": 37.759658322486665,
+        "location": [
+            -2.2017336384610076,
+            -108.02506439761774
+        ],
+        "batteryPercentage": 88.73306693677898
+    },
+    {
+        "voltageMeasured": 2.062161765846011,
+        "currentMeasured": 1.6351200556104617,
+        "voltageCharge": 4.009007691044101,
+        "currentCharge": 1.7064104705315128,
+        "temperature": 29.84550104029764,
+        "location": [
+            -53.034120841031736,
+            158.72683645407523
+        ],
+        "batteryPercentage": 88.75008660889246
+    },
+    {
+        "voltageMeasured": 10.486291073778421,
+        "currentMeasured": 6.808582190050959,
+        "voltageCharge": 4.347663930291363,
+        "currentCharge": 2.36581100546838,
+        "temperature": 30.441908081073333,
+        "location": [
+            34.327635344389876,
+            53.47734908283135
+        ],
+        "batteryPercentage": 88.75972308289022
+    },
+    {
+        "voltageMeasured": 9.136360605735248,
+        "currentMeasured": 3.4083209304270587,
+        "voltageCharge": 0.944910129350337,
+        "currentCharge": 2.3636146323519083,
+        "temperature": 48.83505187039076,
+        "location": [
+            7.520240173459271,
+            -146.29989322767477
+        ],
+        "batteryPercentage": 88.58997023991728
+    },
+    {
+        "voltageMeasured": 18.60794890126893,
+        "currentMeasured": 2.034212471833171,
+        "voltageCharge": 0.07263407510193609,
+        "currentCharge": 1.5879118375979584,
+        "temperature": 9.548719764076562,
+        "location": [
+            -56.111353554128186,
+            61.13555447998971
+        ],
+        "batteryPercentage": 88.50967511304931
+    },
+    {
+        "voltageMeasured": 9.578771310075895,
+        "currentMeasured": 5.178454200679456,
+        "voltageCharge": 4.362251217288865,
+        "currentCharge": 2.2135612904155666,
+        "temperature": 0.9387855545239576,
+        "location": [
+            62.8160921363982,
+            134.0685658393336
+        ],
+        "batteryPercentage": 88.40484959854228
+    },
+    {
+        "voltageMeasured": 5.09930915452935,
+        "currentMeasured": 1.5441805379745048,
+        "voltageCharge": 4.695834308218846,
+        "currentCharge": 1.7813357799415965,
+        "temperature": 37.423025320370805,
+        "location": [
+            31.012378462032004,
+            -97.04386015560516
+        ],
+        "batteryPercentage": 88.29388538161353
+    },
+    {
+        "voltageMeasured": 12.344739519958532,
+        "currentMeasured": 5.4617173786968385,
+        "voltageCharge": 3.7400244922372816,
+        "currentCharge": 2.151352662621473,
+        "temperature": 46.087465085075806,
+        "location": [
+            -71.78946992480363,
+            -64.12601165079053
+        ],
+        "batteryPercentage": 88.29524816971455
+    },
+    {
+        "voltageMeasured": 6.144540357863226,
+        "currentMeasured": 5.406377764664617,
+        "voltageCharge": 0.44629030976409356,
+        "currentCharge": 1.5063320375229603,
+        "temperature": 35.69993950594379,
+        "location": [
+            87.05311289865577,
+            129.06084203718098
+        ],
+        "batteryPercentage": 88.13031103993123
+    },
+    {
+        "voltageMeasured": 7.907252956636288,
+        "currentMeasured": 2.3389612654782943,
+        "voltageCharge": 4.338173572997253,
+        "currentCharge": 1.2189951704536397,
+        "temperature": 19.681451463284116,
+        "location": [
+            9.318869598378285,
+            37.67188097783662
+        ],
+        "batteryPercentage": 88.03990147056122
+    },
+    {
+        "voltageMeasured": 2.4089528002040383,
+        "currentMeasured": 6.2436244664232685,
+        "voltageCharge": 3.7572973994264958,
+        "currentCharge": 1.062431469507871,
+        "temperature": 40.873444726257226,
+        "location": [
+            -4.620552742332322,
+            86.54321556405586
+        ],
+        "batteryPercentage": 88.00321662126167
+    },
+    {
+        "voltageMeasured": 10.738783605183023,
+        "currentMeasured": 1.5170777820349026,
+        "voltageCharge": 2.902562645969675,
+        "currentCharge": 2.026878031313864,
+        "temperature": 2.771039072521786,
+        "location": [
+            -52.07848733691483,
+            10.274093767282181
+        ],
+        "batteryPercentage": 87.972525716694
+    },
+    {
+        "voltageMeasured": 7.322816691435743,
+        "currentMeasured": 4.2715163120405215,
+        "voltageCharge": 4.906640753824265,
+        "currentCharge": 2.0830725639550813,
+        "temperature": 37.99230757623386,
+        "location": [
+            -43.357796740652404,
+            68.80167339207352
+        ],
+        "batteryPercentage": 87.94361341238323
+    },
+    {
+        "voltageMeasured": 9.046558155192255,
+        "currentMeasured": 5.3468247493337095,
+        "voltageCharge": 3.996670856398855,
+        "currentCharge": 1.7800192726657587,
+        "temperature": 46.524165001269445,
+        "location": [
+            -38.10596888818264,
+            -67.64025134992531
+        ],
+        "batteryPercentage": 87.88511718401635
+    },
+    {
+        "voltageMeasured": 6.005795700173735,
+        "currentMeasured": 1.4128606840263944,
+        "voltageCharge": 1.237094630675657,
+        "currentCharge": 1.1558453210120008,
+        "temperature": 48.93395228468902,
+        "location": [
+            -10.409061665387355,
+            161.35124327992884
+        ],
+        "batteryPercentage": 87.77051660098975
+    },
+    {
+        "voltageMeasured": 15.334106160215786,
+        "currentMeasured": 5.839217165051114,
+        "voltageCharge": 0.9761853417592237,
+        "currentCharge": 1.3084967363217412,
+        "temperature": 39.5446050717989,
+        "location": [
+            68.5625865489329,
+            3.070793015272301
+        ],
+        "batteryPercentage": 87.75091809382154
+    },
+    {
+        "voltageMeasured": 4.679890501238924,
+        "currentMeasured": 4.10619919740967,
+        "voltageCharge": 2.984570034618701,
+        "currentCharge": 1.501108249558058,
+        "temperature": 29.292812028172165,
+        "location": [
+            -76.98759933046301,
+            93.85578371554664
+        ],
+        "batteryPercentage": 87.50574631446679
+    },
+    {
+        "voltageMeasured": 8.070942679876566,
+        "currentMeasured": 3.7384923579457148,
+        "voltageCharge": 2.0284816349408863,
+        "currentCharge": 1.1464126789526583,
+        "temperature": 46.588769966866394,
+        "location": [
+            -22.512624356611127,
+            165.92867093117115
+        ],
+        "batteryPercentage": 87.46481187024511
+    },
+    {
+        "voltageMeasured": 13.980324500877943,
+        "currentMeasured": 3.4934202509851366,
+        "voltageCharge": 4.907689177980873,
+        "currentCharge": 1.6309472880368494,
+        "temperature": 24.06225753604475,
+        "location": [
+            62.16688410057441,
+            -34.72024014532599
+        ],
+        "batteryPercentage": 87.3874572022873
+    },
+    {
+        "voltageMeasured": 0.26773151272335927,
+        "currentMeasured": 5.184264544340662,
+        "voltageCharge": 4.161993500186538,
+        "currentCharge": 1.6249432656093656,
+        "temperature": 10.532710197465178,
+        "location": [
+            20.209066604629427,
+            157.34834902647407
+        ],
+        "batteryPercentage": 87.27402674014463
+    },
+    {
+        "voltageMeasured": 1.9686851875764377,
+        "currentMeasured": 3.191869499146451,
+        "voltageCharge": 3.0487190761776075,
+        "currentCharge": 2.083333934770461,
+        "temperature": 33.586266987332195,
+        "location": [
+            48.031429221552,
+            91.92448210255066
+        ],
+        "batteryPercentage": 87.2889573299247
+    },
+    {
+        "voltageMeasured": 17.481543671543417,
+        "currentMeasured": 3.172480768079356,
+        "voltageCharge": 3.8215024789291654,
+        "currentCharge": 2.2059918624289923,
+        "temperature": 6.413001908915361,
+        "location": [
+            78.19733638076315,
+            -32.869735334757706
+        ],
+        "batteryPercentage": 87.28914542355064
+    },
+    {
+        "voltageMeasured": 1.9693532459350571,
+        "currentMeasured": 4.830983989540744,
+        "voltageCharge": 3.8008090687075002,
+        "currentCharge": 2.0551795665893544,
+        "temperature": 5.359789309806084,
+        "location": [
+            58.74794099674318,
+            -176.4080375805066
+        ],
+        "batteryPercentage": 87.1585074854297
+    },
+    {
+        "voltageMeasured": 2.7521847396084853,
+        "currentMeasured": 2.617847247114003,
+        "voltageCharge": 1.6621227263076666,
+        "currentCharge": 1.9007171757859882,
+        "temperature": 10.267346915572851,
+        "location": [
+            38.58757013497731,
+            -147.19501379421965
+        ],
+        "batteryPercentage": 87.15377812746762
+    },
+    {
+        "voltageMeasured": 15.608874321687981,
+        "currentMeasured": 4.203779466902084,
+        "voltageCharge": 4.271410456357386,
+        "currentCharge": 2.258133146491953,
+        "temperature": 6.932289513211131,
+        "location": [
+            86.75781134332973,
+            4.404417073786476
+        ],
+        "batteryPercentage": 87.1425404218288
+    }
+]
