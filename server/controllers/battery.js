@@ -48,10 +48,10 @@ export const sendSensorData = async (req,res) => {
     previous_Battery_Percentage = sensorData.batteryPercentage;
 
     const battery = new BatteryModel(sensorData);
-    battery.save()
-        .then(() => console.log('Sensor data saved : ', sensorData))
-        .catch(err => console.error('Error saving sensor data : ', err));
-    return sensorData;
+    // battery.save()
+    //     .then(() => console.log('Sensor data saved : ', sensorData))
+    //     .catch(err => console.error('Error saving sensor data : ', err));
+    // return sensorData;
 }
 
 const calculate_Battery_Percentage = (VM,CM,VC,CC,prev_Battery_Capacity) => {
@@ -102,10 +102,10 @@ export const sendSensorCSV = async (req,res) => {
     previous_Battery_Percentage = sensorCSV.batteryPercentage;
 
     const battery = new BatteryModel(sensorCSV);
-    battery.save()
-        .then(() => console.log('Sensor data saved : ', sensorCSV))
-        .catch(err => console.error('Error saving sensor data : ', err));
-    // return sensorData;
+    // battery.save()
+    //     .then(() => console.log('Sensor data saved : ', sensorCSV))
+    //     .catch(err => console.error('Error saving sensor data : ', err));
+    // // return sensorData;
 }
 
 
